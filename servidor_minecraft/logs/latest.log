@@ -10913,3 +10913,36 @@ java.lang.Throwable: null
 [19May2025 21:27:40.627] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19May2025 21:27:40.627] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19May2025 21:29:47.217] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[19May2025 21:29:51.602] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[19May2025 21:29:51.847] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[19May2025 21:29:51.847] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[19May2025 21:29:51.848] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[19May2025 21:29:51.848] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[19May2025 21:29:56.578] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[19May2025 21:29:57.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[19May2025 21:32:15.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Become a Mahou Tsukai!]
+[19May2025 21:37:02.520] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[19May2025 21:37:02.521] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[19May2025 21:38:21.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Quaint Scribe]
+[19May2025 21:38:41.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was killed by Apothecarist using magic
+[19May2025 21:38:41.620] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 21:39:25.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was punctured by Apothecarist's poisonous arrow
+[19May2025 21:39:25.181] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 21:39:44.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was stomped by Apothecarist
+[19May2025 21:39:44.014] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 21:40:36.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Tie me to the Mast]
+[19May2025 21:41:20.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Siren
+[19May2025 21:41:20.367] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 21:42:23.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Ice Bucket Challenge]
+[19May2025 21:42:26.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was blown up by Creeper
+[19May2025 21:42:26.302] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 21:42:53.480] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[19May2025 21:42:55.018] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[19May2025 21:43:39.302] [Worker-Main-5/INFO] [net.povstalec.sgjourney.StargateJourney/]: Replaced Transfer Crystal
+[19May2025 21:44:36.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved too quickly! 1.1894004213120297,8.07242780368044,5.99338567133691
+[19May2025 21:45:01.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved too quickly! -9.497553944514266,2.580000013113022,-2.6487850632271375
+[19May2025 21:45:12.016] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19May2025 21:45:12.016] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19May2025 21:46:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Zombie
+[19May2025 21:46:11.627] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 21:48:46.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Magery]

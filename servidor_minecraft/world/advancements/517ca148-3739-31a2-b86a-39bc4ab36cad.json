@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:42:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:58 +0000"
@@ -212,6 +218,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-19 21:40:37 +0000"
     },
     "done": true
   },
@@ -482,6 +494,12 @@
   "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-05-19 21:10:17 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:42:23 +0000"
     },
     "done": true
   },
@@ -1223,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 21:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 19:40:25 +0000"
@@ -1688,6 +1712,12 @@
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-19 21:42:23 +0000"
     },
     "done": true
   },
@@ -2471,6 +2501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-19 21:29:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:58 +0000"
@@ -2615,6 +2651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 21:29:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:58 +0000"
@@ -2633,6 +2675,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:42:23 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/misc/weapontable/crossbow_arrow_silver_bolt": {
     "criteria": {
       "hasSticks": "2025-05-19 19:32:57 +0000"
@@ -2648,6 +2696,12 @@
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-05-19 19:40:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-19 21:40:37 +0000"
     },
     "done": true
   },
@@ -2714,6 +2768,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 19:40:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:42:23 +0000"
     },
     "done": true
   },
@@ -3047,6 +3107,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-19 21:40:36 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_magma_block": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:58 +0000"
@@ -3215,6 +3281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-19 21:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-19 20:50:19 +0000"
@@ -3263,9 +3335,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-19 21:40:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:42:23 +0000"
     },
     "done": true
   },
@@ -3368,6 +3452,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2025-05-19 21:32:15 +0000"
     },
     "done": true
   },
@@ -3815,6 +3905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:42:23 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/lunar_stone_leggings": {
     "criteria": {
       "has_item": "2025-05-19 20:55:01 +0000"
@@ -4235,6 +4331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-19 21:40:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-19 19:32:44 +0000"
@@ -4290,6 +4392,8 @@
       "minecraft:beach": "2025-05-19 19:34:57 +0000",
       "minecraft:dark_forest": "2025-05-19 19:35:43 +0000",
       "minecraft:river": "2025-05-19 19:36:23 +0000",
+      "minecraft:stony_shore": "2025-05-19 21:26:38 +0000",
+      "minecraft:cold_ocean": "2025-05-19 21:26:49 +0000",
       "minecraft:forest": "2025-05-19 19:30:59 +0000",
       "minecraft:ocean": "2025-05-19 19:40:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-19 19:34:49 +0000",
@@ -4378,6 +4482,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-05-19 19:39:10 +0000",
+      "cooked_mutton": "2025-05-19 21:34:30 +0000",
+      "cooked_beef": "2025-05-19 21:30:13 +0000",
       "porkchop": "2025-05-19 19:36:00 +0000",
       "mutton": "2025-05-19 19:39:02 +0000",
       "bread": "2025-05-19 20:45:21 +0000",
@@ -4401,6 +4507,12 @@
   "vampirism:recipes/decorations/general/vampire_rack": {
     "criteria": {
       "has_planks": "2025-05-19 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:42:23 +0000"
     },
     "done": true
   },
