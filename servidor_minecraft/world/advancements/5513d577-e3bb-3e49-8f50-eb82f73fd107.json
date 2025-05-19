@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-05-19 18:23:25 +0000"
@@ -143,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -161,9 +173,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_saber": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/clear_deny": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -188,6 +212,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -233,6 +263,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-05-19 18:34:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_berry_pie": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -245,9 +281,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/fire_place": {
+    "criteria": {
+      "has_logs": "2025-05-19 18:34:04 +0000"
     },
     "done": true
   },
@@ -266,6 +314,12 @@
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -323,6 +377,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_throwing_knife": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -341,9 +401,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/hunter/crucifix": {
+    "criteria": {
+      "planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -431,6 +503,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/misc/stone_altar_fire_bowl": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "sgoc:mimic_punch": {
     "criteria": {
       "requirement": "2025-05-19 18:25:04 +0000"
@@ -473,6 +551,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_lance": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -491,6 +575,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -506,6 +602,12 @@
   "ars_nouveau:recipes/misc/scribes_table": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -593,9 +695,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 18:34:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/archwood_to_chest": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-05-19 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -608,6 +728,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_katana": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -632,6 +758,18 @@
   "ars_nouveau:recipes/misc/sourceberry_sack_to_bush": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -701,6 +839,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/sourcestone_6": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -755,6 +899,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/bat_cage": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -773,9 +923,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:34:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/alchemy_table": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -806,6 +974,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -845,6 +1019,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/altar_cleansing": {
+    "criteria": {
+      "has_vampire_book": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -860,6 +1040,12 @@
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -920,6 +1106,12 @@
   "ars_nouveau:recipes/misc/imbuement_chamber": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_spear": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1151,9 +1343,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_door": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1169,6 +1373,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/throne": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -1178,6 +1388,12 @@
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/bit_storage": {
+    "criteria": {
+      "has_l": "2025-05-19 18:34:04 +0000"
     },
     "done": true
   },
@@ -1193,6 +1409,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "kom:king_of_the_mobsters": {
     "criteria": {
       "king_of_the_mobsters_0": "2025-05-19 18:23:25 +0000"
@@ -1205,6 +1433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-19 18:34:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/magebloom_block": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -1214,6 +1448,18 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1238,6 +1484,12 @@
   "ars_nouveau:recipes/misc/mimic_scroll": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1301,6 +1553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/item_detector": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -1331,6 +1589,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/chiseled_printer": {
+    "criteria": {
+      "has_l": "2025-05-19 18:34:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -1340,6 +1604,12 @@
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:34:04 +0000"
     },
     "done": true
   },
@@ -1409,9 +1679,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_pedestal": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1457,6 +1739,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/modification_table": {
+    "criteria": {
+      "has_b": "2025-05-19 18:34:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -1466,6 +1754,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_pike": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1493,6 +1787,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
@@ -1502,6 +1802,12 @@
   "ars_nouveau:recipes/misc/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_inspiration": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1517,9 +1823,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-05-19 18:33:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1562,6 +1880,12 @@
   "ars_nouveau:recipes/misc/scryers_crystal": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 18:34:04 +0000"
     },
     "done": true
   },
@@ -1613,9 +1937,21 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/wrench": {
+    "criteria": {
+      "has_p": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/cross": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1667,9 +2003,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },
@@ -1687,6 +2041,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dripstone_caves": "2025-05-19 18:35:47 +0000",
       "minecraft:snowy_taiga": "2025-05-19 18:23:26 +0000"
     },
     "done": false
@@ -1709,9 +2064,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/vampire_rack": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mirrorweave": {
     "criteria": {
       "has_journal": "2025-05-19 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-19 18:35:42 +0000"
     },
     "done": true
   },

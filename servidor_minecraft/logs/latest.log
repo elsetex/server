@@ -7097,3 +7097,20 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [19May2025 18:26:39.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made setexgamer a server operator
 [19May2025 18:28:36.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Stone Age]
 [19May2025 18:28:59.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Getting an Upgrade]
+[19May2025 18:31:23.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made setexgamer no longer a server operator
+[19May2025 18:32:12.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Become a Mahou Tsukai!]
+[19May2025 18:33:33.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Junior Summoner]
+[19May2025 18:33:41.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19May2025 18:33:49.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Monster Hunter]
+[19May2025 18:34:09.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ilis84 a server operator
+[19May2025 18:34:09.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ilis84 a server operator
+[19May2025 18:34:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was blown up by Creeper
+[19May2025 18:34:13.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Your First Grave]
+[19May2025 18:34:13.540] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 18:34:16.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[19May2025 18:35:32.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[19May2025 18:37:15.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Stone Age]
+[19May2025 18:37:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Getting an Upgrade]
+[19May2025 18:39:15.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was pummeled by setexgamer
+[19May2025 18:39:15.066] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 18:40:26.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
