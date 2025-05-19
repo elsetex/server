@@ -1379,3 +1379,49 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [19May2025 22:42:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Hot Stuff]
 [19May2025 22:47:34.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Zombie
 [19May2025 22:47:34.719] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 22:59:37.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer tried to swim in lava
+[19May2025 22:59:37.553] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 23:00:31.887] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[19May2025 23:00:31.887] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[19May2025 23:00:31.888] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[19May2025 23:00:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [We Need to Go Deeper]
+[19May2025 23:00:34.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3708ms or 74 ticks behind
+[19May2025 23:00:37.092] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[19May2025 23:01:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer tried to swim in lava
+[19May2025 23:01:23.506] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 23:01:36.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[19May2025 23:01:51.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[19May2025 23:01:57.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19May2025 23:02:15.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer tried to swim in lava
+[19May2025 23:02:16.007] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 23:02:28.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Disconnected
+[19May2025 23:02:28.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
+[19May2025 23:02:28.497] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
+[19May2025 23:07:58.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: setexgamer[/100.68.92.13:58522] logged in with entity id 15499 at (-59.5, 52.1, -163.5)
+[19May2025 23:07:58.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer joined the game
+[19May2025 23:07:59.113] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[19May2025 23:07:59.117] [Server thread/INFO] [Jade/]: Syncing config to setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[19May2025 23:08:02.903] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was loaded
+[19May2025 23:09:39.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Timed out
+[19May2025 23:09:39.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[19May2025 23:09:39.644] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[19May2025 23:09:39.685] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 23:10:18.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilis84[/100.81.43.74:54626] logged in with entity id 16022 at (-2767.4912769124553, 67.0, 774.3746741573115)
+[19May2025 23:10:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 joined the game
+[19May2025 23:10:19.090] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[19May2025 23:10:19.096] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[19May2025 23:10:19.784] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
+[19May2025 23:13:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [We Need to Go Deeper]
+[19May2025 23:13:18.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[19May2025 23:14:22.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[19May2025 23:19:21.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer burned to death
+[19May2025 23:19:21.559] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 23:20:50.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Who You Gonna Call?]
+[19May2025 23:21:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Bone Crusher]
+[19May2025 23:21:02.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Not a Diamond]
+[19May2025 23:21:24.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Strong or Careful]
+[19May2025 23:21:24.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Ghost
+[19May2025 23:21:24.323] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 23:22:39.012] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
+[19May2025 23:22:39.013] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
+[19May2025 23:22:39.013] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
