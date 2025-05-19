@@ -1,0 +1,100 @@
+
+["Devil Fruits"]
+	#Sets the probability of losing a devil fruit for a devil fruit user uppon their death. If the devil fruit user possess several devil fruits, each of them have an individual probability of being lost. A lost devil fruit can generate again in a new loot. [Default: 0.0]
+	probability_of_losing_a_fruit_on_death = 0.0
+	#Sets the max number of devil fruit that an ability user can possess. This does not affect the side effect of eating more than one in survival. [Default : 10]
+	#Range: 0 ~ 14
+	max_eatable_fruits = 10
+
+	["Devil Fruits"."Devil Fruits Spawning"]
+		#Sets the maximum amount of copy of one same devil fruit that can be generated. This value can also be changed in game by using a command. [Default: 1]
+		max_copy_of_the_same_devil_fruit = 1
+		#Sets the probability for a devil fruit to spawn during a loot generation, though a devil fruit still need to be available to spawn. This value need to be between 0.0 (no fruit will spawn) and 1.0 (a fruit will always spawn if one is available). This value can be changed in game by using a command. [Default: 0.01]
+		#Range: 0.0 ~ 1.0
+		probability_for_a_fruit_to_spawn = 0.01
+
+	["Devil Fruits"."Blacklisted Abilities"]
+		#Sets the list of active abilities that will never be given to devil fruit user, and thus will not be obtainable without commands. The format is: ["mod_id:ability_key_1", "mod_id:ability_key_2"]. If for example you wish to disable the room active ability this option will be set to: ["devilfruits:room"]. Using the "/speedscore abilities active [target] add" command suggest every existing abilities, so if you search for a specific one you can look through the suggested list.
+		blacklisted_active_abilities = []
+		#Sets the list effect abilities that will never be given to devil fruit user, and thus will not be obtainable without commands. The format is: ["mod_id:ability_key_1", "mod_id:ability_key_2"]. If for example you wish to disable the phoenix second chance effect ability this option will be set to: ["devilfruits:phoenix_seconde_chance"]. Using the "/speedscore abilities effect [target] add" command suggest every existing abilities, so if you search for a specific one you can look through the suggested list.
+		blacklisted_effect_abilities = []
+		#Sets the list of trigger abilities that never not be given to devil fruit user, and thus will not be obtainable without commands. The format is: ["mod_id:ability_key_1", "mod_id:ability_key_2"]. If for example you wish to disable the hybrid elephant belly slam trigger ability this option will be set to: ["devilfruits:hybrid_elephant_belly_slam"]. Using the "/speedscore abilities trigger [target] add" command suggest every existing abilities, so if you search for a specific one you can look through the suggested list.
+		blacklisted_trigger_abilities = []
+
+	["Devil Fruits"."Kilo Kilo Fruit"]
+		#Sets the damage that the falling user of the Kilo Kilo no mi do to a hit target, per fell block. This value is multiplied by both the fallen distance (in blocks) and a ratio that get bigger the heavier the user is. [Default: 2]
+		fall_damage_per_block = 2.0
+		#Sets the maximum amount of damage that can be applied by the falling user of the Kilo Kilo no mi to a hit target. Regardless of the weight of the user, or the falling distance, this will be the maximum value. [Default: 40]
+		max_fall_damage = 40.0
+
+	["Devil Fruits"."Op-Op Fruit"]
+		#Sets the list of entities that shouldn't be affected by the Room manipulative abilities (such as Shambles). The format is as follows : [ "mod_id:entity_name", "mod_id:other_entity_name" ].
+		#So for example, if you wish to prevent wardens from being affected you'll have to put "minecraft:warden" in the list.
+		room_immune_entities = []
+		#Sets the list of blocks that shouldn't be movable by the Shambles ability of the Op-Op Fruit. The format is as follows : [ "mod_id:block_name", "mod_id:other_block_name" ].
+		#So for example, if you with to prevent bedrock from being movable you'll have to put "minecraft:bedrock" in the list. [Default: ["minecraft:bedrock", "minecraft:barrier", "minecraft:nether_portal", "minecraft:end_portal", "minecraft:end_gateway"]]
+		shambles_unmovable_blocks = ["minecraft:bedrock", "minecraft:barrier", "minecraft:nether_portal", "minecraft:end_portal", "minecraft:end_gateway"]
+
+	["Devil Fruits"."Flame-Flame Fruit"]
+		#Sets the amount of damage that entities affected by the fire propulsion of the Flame-Flame Fruit user will take. [Default: 1]
+		fire_propulsion_damage = 1.0
+		#Sets the amount of tick (20 ticks is 1 second) that should be applied as cooldown for the flame emperor ability once the user released the giant fire ball from their control. This is not the ability cooldown but the cooldown before the user can take back the control of their giant fire ball.  [Default: 40]
+		flame_emperor_release_cooldown_in_ticks = 40
+
+		["Devil Fruits"."Flame-Flame Fruit"."Fire Fist"]
+			#Sets the damage that an entity in direct contact with a fire fist will take. [Default: 10]
+			fire_fist_hit_damage = 10.0
+			#Sets the amount of damage the fire fist has to take before dissipating. The fire fist takes damage when hitting blocks, with the block explosion resistance being used as damage.  [Default: 500]
+			fire_fist_health = 500.0
+			#Sets the radius, in blocks, of fire fists final explosion. [Default: 7]
+			fire_fist_final_explosion_radius = 7
+			#Sets the full damage of the final explosion. The amount of damage is decreased the further from the center the affected entities are. [Default: 50]
+			fire_fist_final_explosion_full_damage = 50.0
+			#Sets the strength of the final explosion. Blocks require strength to be broken by an explosion. Additionally, each destroyed block decreases, with their explosion resistance, the strength of one ray of the explosion. [Default: 300]
+			fire_fist_final_explosion_strength = 300.0
+			#Sets the radius of the repeated explosion that happen when the fire fist hit something but has still enough health to no dissipate. [Default: 3]
+			fire_fist_repeated_explosion_radius = 3
+			#Sets the full damage of the repeated explosion that happen when the fire fist hit something but has still enough health to no dissipate. The amount of damage is decreased the further from the center the affected entities are. [Default: 20]
+			fire_fist_repeated_explosion_full_damage = 20.0
+			#Sets the strength of the repeated explosion that happen when the fire fist hit something but has still enough health to no dissipate. Blocks require strength to be broken by an explosion. Additionally, each destroyed block decreases, with their explosion resistance, the strength of one ray of the explosion. [Default: 200]
+			fire_fist_repeated_explosion_strength = 200.0
+
+		["Devil Fruits"."Flame-Flame Fruit"."Fire Form"]
+			#Sets how many ticks (20 ticks is 1 second) must pass before the Fire Form try to ignite the ground under its user. [Default: 100]
+			try_to_ignite_ground_max_tick_timer = 100
+			#Sets the probability that the ground under the user of the Fire Form is ignited once the ignite ground timer has reached its limit. [Default: 0.3]
+			ignite_ground_probability = 0.3
+			#Sets whether items possessing the "can_burn" tag can be damaged. [Default: true]
+			can_damage_burnable_items = true
+			#Sets whether items possessing the "can_burn_to_a_crisp" tag can be destroyed. [Default: true]
+			can_destroy_burnable_to_a_crisp_items = true
+			#Sets how many ticks (20 ticks is 1 second) must pass before the Fire Form try to burn what the ability user is holding or wearing. [Default: 20]
+			burn_held_items_max_tick_timer = 20
+			#Sets the probability that the held and worn items of the user will be burnt by the Fire Form once the timer has reached its limit. [Default: 0.1]
+			burn_held_items_probability = 0.1
+			#Sets the amount of damage that should be applied to items burnt by the Fire Form. [Default: 10]
+			burn_held_items_damage = 10
+			#Sets the probability that the held and worn items of the user that can be destroyed will be destroyed by the Fire Form once the timer has reached its limit. [Default: 0.01]
+			burn_to_a_crisp_items_probability = 0.01
+
+	["Devil Fruits"."Chilly-Chilly Fruit"]
+		#Sets whether the user of the Chilly-Chilly Fruit can be hurt by fire based damage (such as lava or fireballs). [Default: true]
+		is_threatened_by_fire = true
+		#Sets the amount of damage that entities affected by the Ice Form cold aura will take. [Default: 1]
+		cold_aura_damage = 1.0
+		#Sets whether the ability to freeze entities and turn them into ice statue should be disabled or not. [Default: false]
+		disable_freezing = false
+		#Sets the list of entities that cannot be frozen and turned into ice statues. The format is as follows : [ "mod_id:entity_type", "mod_id:other_entity_type" ].", "So for example, if you wish to prevent wardens from being affected you'll have to put "minecraft:wardens" in the list [Default: []]
+		freezing_immune_entities = []
+		#Sets the probability that entities affected by the Ice Form cold aura will get their chilled effect level, only if they already have it at level 1, increased at level 2. [Default: 0.2]
+		cold_aura_chilled_level_increase_to_level2_probability = 0.2
+		#Sets the probability that entities affected by the Ice Form cold aura will get their chilled effect level, only if they already have it at level 2, increased at level 3. [Default: 0.05]
+		cold_aura_chilled_level_increase_to_level3_probability = 0.05
+		#Sets the radius of effect, in blocks, of the cold aura emited by the Ice Form ability. It affects the radius of effect when freezing water and when affecting an entity. [Default: 5]
+		cold_aura_radius = 5
+		#Sets the radius of effect, in blocks, of the cold aura emited by the Frost Walk ability. It affects the radius of effect when freezing water. [Default: 3]
+		frost_walk_radius = 3
+		#Sets the list of blocks that should be immune to the ice projectiles impact and freezing effect of the Chilly-Chilly Fruit. The format is as follows : [ "mod_id:block_name", "mod_id:other_block_name" ].
+		#So for example, if you wish to prevent bedrock from being affected you'll have to put "minecraft:bedrock" in the list. [Default: ["minecraft:bedrock", "minecraft:barrier", "minecraft:nether_portal", "minecraft:end_portal", "minecraft:end_gateway"]]
+		ice_projectile_immune_blocks = ["minecraft:bedrock", "minecraft:barrier", "minecraft:nether_portal", "minecraft:end_portal", "minecraft:end_gateway"]
+
