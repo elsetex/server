@@ -10835,3 +10835,36 @@ java.lang.Throwable: null
 [19May2025 20:48:49.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/23531, l='ServerLevel[world]', x=-1848.59, y=64.00, z=19.30] died, message: 'Angry Villager was slain by Vampire'
 [19May2025 20:48:50.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Ferrous Wroughtnaut
 [19May2025 20:48:50.872] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 20:49:35.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[19May2025 20:50:21.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Ferrous Wroughtnaut
+[19May2025 20:50:21.304] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 20:50:22.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [The Most Useful Key]
+[19May2025 20:50:30.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [A Fast Comeback]
+[19May2025 20:51:29.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Ferrous Wroughtnaut
+[19May2025 20:51:30.010] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 20:51:49.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [A Strange Grave Dust]
+[19May2025 20:51:55.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Apothic Affixes]
+[19May2025 20:51:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [How'd You Get This?]
+[19May2025 20:52:18.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Chain Death]
+[19May2025 20:52:18.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Ferrous Wroughtnaut
+[19May2025 20:52:18.911] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 20:52:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Vampire Diaries]
+[19May2025 20:53:30.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Cover Me with Diamonds]
+[19May2025 20:53:33.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [I Found It Underground]
+[19May2025 20:53:33.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Worthy Equipment]
+[19May2025 20:53:39.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has completed the challenge [Just a Flesh Wound]
+[19May2025 20:54:15.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved wrongly!
+[19May2025 20:54:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Mr. Esmeralda the Honest
+[19May2025 20:54:27.903] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 20:54:37.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Here They Come]
+[19May2025 20:54:48.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Mr. Esmeralda the Honest'/25596, l='ServerLevel[world]', x=-1834.10, y=-28.00, z=98.54] died: Mr. Esmeralda the Honest was slain by ilis84
+[19May2025 20:54:49.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has completed the challenge [He Wasn't So Strong]
+[19May2025 20:55:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has completed the challenge [Superior Being]
+[19May2025 20:56:17.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Ashes 'n Bones]
+[19May2025 20:56:47.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Ashes 'n Bones]
+[19May2025 20:57:03.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Not Today, Thank You]
+[19May2025 20:57:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Warped]
+[19May2025 21:00:44.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [How'd You Get This?]
+[19May2025 21:01:28.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was shot by Skeleton
+[19May2025 21:01:28.523] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 21:08:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Knowledge raises the soul]
