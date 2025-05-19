@@ -10959,3 +10959,14 @@ java.lang.Throwable: null
 [19May2025 22:00:05.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer walked into fire whilst fighting Stymphalian Bird
 [19May2025 22:00:05.460] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
 [19May2025 22:00:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Herc was on a Roll!]
+[19May2025 22:01:53.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Werewolf
+[19May2025 22:01:53.467] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 22:02:58.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Werewolf
+[19May2025 22:02:58.560] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 22:03:38.569] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[19May2025 22:03:45.901] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[19May2025 22:04:20.230] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Set 9-Chevron Address to -34-28-4-19-25-3-6-27-
+[19May2025 22:04:20.231] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Added Stargate -34-28-4-19-25-3-6-27- to BlockEntityList
+[19May2025 22:05:56.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Vampire Diaries]
+[19May2025 22:08:50.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Chest Slayer]
+[19May2025 22:10:44.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
