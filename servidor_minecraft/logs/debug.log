@@ -11663,3 +11663,11 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [19May2025 22:40:38.308] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-638, y:-28, z:-1221, dim:minecraft:overworld]
 [19May2025 22:40:38.314] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
 [19May2025 22:42:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Hot Stuff]
+[19May2025 22:45:22.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 22:45:22.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 22:47:34.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Zombie
+[19May2025 22:47:34.691] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-573, y:-9, z:-1198, dim:minecraft:overworld]
+[19May2025 22:47:34.719] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 22:47:43.248] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 2
+[19May2025 22:50:22.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 22:50:22.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

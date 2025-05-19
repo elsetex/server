@@ -1377,3 +1377,5 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [19May2025 22:40:38.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer tried to swim in lava
 [19May2025 22:40:38.314] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
 [19May2025 22:42:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Hot Stuff]
+[19May2025 22:47:34.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Zombie
+[19May2025 22:47:34.719] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
