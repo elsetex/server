@@ -1,0 +1,23 @@
+
+[Willpower]
+	#Sets the maximuma mount of willpower a user can theorically hold. [Default: 100000.0]
+	max_willpower_amount = 100000.0
+	#Sets the default amount of willpower that a haki user possess. [Default: 1000.0]
+	default_willpower_amount = 1000.0
+	#Sets the willpower recovery rate per second. [Defaul: 5.0]
+	willpower_recovery_per_second = 5.0
+	#Sets the amount of ticks (20 ticks is 1 second) that a haki user must passed without consuming any willpower before it can start its recovery. [Default: 600]
+	needed_time_in_ticks_without_consumption_to_start_recovering_willpower = 600
+	#Sets the amount of time a haki user need to completely exhaust their willpower before getting the overstrained effect (which makes them unable to use haki for some time). If this value is set to 0 then a haki user will never naturally get the overstrained effect. [Default: 1]
+	willpower_exhaustion_counter_before_becoming_overstained = 1
+	#Sets the amount of ticks (20 ticks is 1 second) that a haki user must passed without completely exhausting their willpower before the exhaustion counter is decreased. [Default: 6000]
+	willpower_exhaustion_counter_reduction_timer_in_ticks = 6000
+	#Sets the range of the overstrained effect duration, in ticks (20 ticks is 1 second). [Default: "1200:6000"]
+	overstrained_on_willpower_exhaustion_range_in_ticks = "1200:6000"
+
+["Observation Haki"]
+
+	["Observation Haki"."Intents Sensing"]
+		#Sets the critical damage multiplier applied when performing a critical hit while intents sensing observation haki is active. [Default: 1.5]
+		intents_observation_haki_critical_damage_modifier = 1.5
+

@@ -1,0 +1,33 @@
+[18:20:25] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:20:25] [INIT] Loaded plugins:
+[18:20:25] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:20:25] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[18:20:25] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[18:20:25] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[18:20:25] [INFO] Loaded script server_scripts:example.js in 0.002 s
+[18:20:25] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_theft.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_hud.js in 0.0 s
+[18:20:25] [INFO] Loaded script addonpack_heroes:kubejs_scripts/spatial_travel_command.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_death.js in 0.001 s
+[18:20:25] [INFO] addonpack_heroes:kubejs_scripts/prevent_damage.js#8: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket'
+[18:20:25] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_damage.js in 0.01 s
+[18:20:25] [INFO] Loaded script addonpack_heroes:kubejs_scripts/intuitive_teach.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_heroes:kubejs_scripts/heroes_superpower_command.js in 0.003 s
+[18:20:25] [INFO] Loaded script addonpack_heroes:kubejs_scripts/clairvoyance.js in 0.004 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/wiki.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/toggle_tp.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/space_travel.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/skill_points.js in 0.021 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/receive_power_selected.js in 0.0 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/reality_tool.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/reality_armor.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/prevent_damage.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/power_command.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/nodrop.js in 0.0 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/max_energy.js in 0.001 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/data_enderchest.js in 0.0 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/create_item.js in 0.0 s
+[18:20:25] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/check_adaptation.js in 0.001 s
+[18:20:25] [INFO] Loaded 23/23 KubeJS server scripts in 0.097 s with 0 errors and 0 warnings
+[18:20:25] [INFO] Scripts loaded
+[18:20:49] [INFO] Server resource reload complete!

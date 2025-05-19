@@ -1,0 +1,29 @@
+
+["Blocking Mechanic"]
+	#Set whether the blocking mechanic can work.
+	#Setting this value to true only mean that abilities will be able to use the blocking mechanic, it doesn't mean that players will be able to block, just that the system can be used.
+	blocking_system_active = true
+
+["Level Manipulator"]
+	#Set the destruction rate of the level manipulator in blocks per tick.
+	#To summarize, this number is how many blocks will abilities be able to destroy per tick (20 ticks equals to 1 second).
+	#Beware, the count is shared between each destruction, meaning that this rate will be shared between each ability destroying blocks.
+	#Example : 40
+	#It will force abilities to destroy a maximum of 40 blocks per tick (destroy 800 blocks per second). So, if two abilities cause destruction simulteanously, they both will destroy 20 blocks per tick.
+	level_manipulator_destruction_rate = 10000
+	#Set the construction rate of the level manipulator in blocks per tick.
+	#To summarize, this number is how many blocks will abilities be able to build per tick (20 ticks equals to 1 second).
+	#Beware, the count is shared between each construction, meaning that this rate will be shared between each ability constructing blocks.
+	#Example : 30
+	#It will force abilities to construct a maximum of 30 blocks per tick (build 600 blocks per second). So, if two abilities cause construction simulteanously, they both will construct 15 blocks per tick.
+	level_manipulator_construction_rate = 1000
+
+["Abilities Owning"]
+	#List the living entity that should be able to possess abilities.
+	#It doesn't mean that they can actually use them but that they will internally (from a code point of view) be able to possess them.
+	#Simply list them following this format : "mod_id:entity_name" all separated by a comma.
+	#Example : ["minecraft:player", "minecraft:warden"]
+	#It would allow both players and wardens to possess abilities.
+	#It's INPORTANT to to not forget the quotation marks.
+	living_entities_able_to_possess_abilities = ["minecraft:player"]
+
