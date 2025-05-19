@@ -20282,3 +20282,7 @@ java.lang.Throwable: null
 [19May2025 19:51:34.747] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
 [19May2025 19:54:55.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19May2025 19:54:55.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 19:59:55.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 19:59:55.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 20:04:55.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 20:04:55.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
