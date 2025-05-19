@@ -10868,3 +10868,48 @@ java.lang.Throwable: null
 [19May2025 21:01:28.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was shot by Skeleton
 [19May2025 21:01:28.523] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
 [19May2025 21:08:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Knowledge raises the soul]
+[19May2025 21:09:51.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[19May2025 21:09:55.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Amateur Archaeologist]
+[19May2025 21:10:00.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Blood Feeders' Home]
+[19May2025 21:13:37.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Vampire Hunter
+[19May2025 21:13:37.667] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 21:13:39.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [The Most Useful Key]
+[19May2025 21:13:47.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [A Fast Comeback]
+[19May2025 21:15:32.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Alex's Caves]
+[19May2025 21:16:23.665] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/26422, l='ServerLevel[world]', x=-1729.53, y=47.85, z=110.50] died: Honeyed Archer was slain by setexgamer
+[19May2025 21:17:43.092] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[19May2025 21:17:43.212] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[19May2025 21:23:27.299] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[19May2025 21:23:27.299] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[19May2025 21:23:36.848] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
+[19May2025 21:23:36.849] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
+[19May2025 21:23:36.849] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
+[19May2025 21:23:45.958] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
+[19May2025 21:23:45.958] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
+[19May2025 21:23:45.958] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
+[19May2025 21:23:51.772] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[19May2025 21:23:51.853] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[19May2025 21:24:00.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPygro['Driller'/37976, l='ServerLevel[world]', x=-2167.06, y=-2.00, z=33.01] died: Driller suffocated in a wall
+[19May2025 21:24:09.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[19May2025 21:24:22.083] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
+[19May2025 21:24:22.083] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
+[19May2025 21:24:22.084] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
+[19May2025 21:24:29.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[19May2025 21:24:46.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
+[19May2025 21:25:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Ice Bucket Challenge]
+[19May2025 21:25:09.491] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[19May2025 21:25:09.500] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[19May2025 21:25:09.500] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[19May2025 21:25:09.500] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[19May2025 21:25:09.642] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[19May2025 21:25:11.489] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[19May2025 21:25:11.700] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[19May2025 21:25:42.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Tools of the Trade]
+[19May2025 21:27:19.856] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[19May2025 21:27:19.869] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[19May2025 21:27:19.869] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[19May2025 21:27:19.869] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[19May2025 21:27:19.879] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[19May2025 21:27:40.627] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19May2025 21:27:40.627] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19May2025 21:29:47.217] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}

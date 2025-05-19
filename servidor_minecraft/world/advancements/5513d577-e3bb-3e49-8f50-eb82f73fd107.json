@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:25:01 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/blood_pedestal": {
     "criteria": {
       "has_gold": "2025-05-19 20:40:36 +0000"
@@ -116,6 +122,12 @@
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-19 21:26:13 +0000"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-19 20:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-19 21:15:12 +0000"
     },
     "done": true
   },
@@ -497,9 +515,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-19 19:35:02 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:25:01 +0000"
     },
     "done": true
   },
@@ -753,6 +783,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-19 19:43:42 +0000",
       "minecraft:spider": "2025-05-19 19:42:00 +0000",
+      "minecraft:creeper": "2025-05-19 21:18:16 +0000",
       "minecraft:witch": "2025-05-19 19:44:49 +0000",
       "minecraft:enderman": "2025-05-19 19:50:29 +0000",
       "minecraft:zombie": "2025-05-19 19:43:21 +0000"
@@ -909,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-05-19 19:35:55 +0000"
@@ -1050,6 +1087,12 @@
   "vampirism:recipes/decorations/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-05-19 20:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
@@ -1209,6 +1252,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-19 21:15:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-19 19:35:39 +0000"
@@ -1305,6 +1354,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_slab": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keycard_lv3": {
     "criteria": {
       "has_iron": "2025-05-19 20:32:19 +0000"
@@ -1386,6 +1441,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 20:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
@@ -1545,6 +1606,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
@@ -1584,6 +1651,12 @@
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-19 21:25:01 +0000"
     },
     "done": true
   },
@@ -1749,6 +1822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/hunter/crucifix": {
     "criteria": {
       "planks": "2025-05-19 19:35:37 +0000"
@@ -1851,6 +1930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-05-19 19:32:38 +0000"
@@ -1866,6 +1951,12 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-05-19 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
@@ -1950,6 +2041,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-19 19:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
@@ -2253,6 +2350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-19 21:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-19 19:35:55 +0000"
@@ -2415,6 +2518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone": {
     "criteria": {
       "has_broken_bone": "2025-05-19 19:48:44 +0000"
@@ -2472,6 +2581,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-19 19:35:55 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:25:01 +0000"
     },
     "done": true
   },
@@ -2583,6 +2698,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:25:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-05-19 19:32:38 +0000"
@@ -2607,9 +2728,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-19 20:44:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-19 21:15:12 +0000"
     },
     "done": true
   },
@@ -2688,6 +2821,12 @@
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-05-19 19:32:38 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-19 21:25:42 +0000"
     },
     "done": true
   },
@@ -2787,6 +2926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-19 21:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/wolfsbane_diffuser_improved": {
     "criteria": {
       "has_diamond": "2025-05-19 20:40:35 +0000"
@@ -2796,6 +2941,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-19 21:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
@@ -2826,6 +2977,12 @@
   "spartanshields:recipes/iron_basic_shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 20:32:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_smelting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
@@ -2943,6 +3100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/stripped_purple_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
@@ -3051,6 +3214,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-19 19:37:42 +0000"
@@ -3078,6 +3247,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-19 20:52:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/polished_dark_stone": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
@@ -3399,6 +3574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-05-19 19:32:38 +0000"
@@ -3561,9 +3742,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:25:01 +0000"
+    },
+    "done": true
+  },
   "heroes:true_hero": {
     "criteria": {
       "Impossible": "2025-05-19 20:55:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
@@ -3693,6 +3886,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/bat_cage": {
     "criteria": {
       "has_planks": "2025-05-19 19:35:37 +0000"
@@ -3741,6 +3940,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-05-19 21:26:13 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/alchemical_cauldron": {
     "criteria": {
       "has_iron": "2025-05-19 20:32:19 +0000"
@@ -3783,6 +3988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-19 21:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-19 20:37:34 +0000"
@@ -3792,6 +4003,12 @@
   "vampirism:recipes/decorations/vampire/candelabra_candles": {
     "criteria": {
       "has_iron": "2025-05-19 20:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
@@ -3846,6 +4063,12 @@
   "werewolves:recipes/misc/silver_sword": {
     "criteria": {
       "has_sticks": "2025-05-19 19:35:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-05-19 21:10:00 +0000"
     },
     "done": true
   },
@@ -3951,6 +4174,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-19 21:09:55 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
@@ -3992,6 +4221,7 @@
       "minecraft:dripstone_caves": "2025-05-19 20:47:35 +0000",
       "minecraft:forest": "2025-05-19 19:30:37 +0000",
       "minecraft:ocean": "2025-05-19 20:30:46 +0000",
+      "minecraft:flower_forest": "2025-05-19 21:22:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-19 19:32:52 +0000",
       "minecraft:plains": "2025-05-19 20:31:16 +0000"
     },
@@ -4074,7 +4304,10 @@
       "beef": "2025-05-19 19:41:49 +0000",
       "porkchop": "2025-05-19 19:34:23 +0000",
       "apple": "2025-05-19 20:49:32 +0000",
-      "mutton": "2025-05-19 19:41:54 +0000"
+      "mutton": "2025-05-19 19:41:54 +0000",
+      "bread": "2025-05-19 21:18:04 +0000",
+      "rotten_flesh": "2025-05-19 21:14:19 +0000",
+      "carrot": "2025-05-19 21:25:20 +0000"
     },
     "done": false
   },
@@ -4099,6 +4332,12 @@
   "vampirism:recipes/decorations/general/vampire_rack": {
     "criteria": {
       "has_planks": "2025-05-19 19:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-19 21:25:01 +0000"
     },
     "done": true
   },
@@ -4147,6 +4386,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-19 20:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-05-19 21:10:03 +0000"
     },
     "done": true
   },
