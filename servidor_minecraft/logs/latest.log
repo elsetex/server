@@ -6305,3 +6305,22 @@ java.lang.Throwable: null
 [19May2025 19:51:34.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 starved to death
 [19May2025 19:51:34.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Your First Grave]
 [19May2025 19:51:34.747] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 20:30:59.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made setexgamer a server operator
+[19May2025 20:30:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made setexgamer a server operator
+[19May2025 20:31:11.205] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1193 ms
+[19May2025 20:31:16.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to -1855.500000, 63.000000, 48.500000]
+[19May2025 20:31:16.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[19May2025 20:31:16.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -9.32714573537794,1.0791964309861726,3.5536798187632996
+[19May2025 20:31:22.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[19May2025 20:31:35.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Iron Golem
+[19May2025 20:31:35.705] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 20:31:40.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[19May2025 20:31:49.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Blood Feeders' Home]
+[19May2025 20:32:19.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Acquire Hardware]
+[19May2025 20:32:56.848] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[19May2025 20:33:46.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was shot by Skeleton
+[19May2025 20:33:46.907] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 20:36:36.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Isn't It Iron Pick]
+[19May2025 20:36:49.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Diamonds!]
+[19May2025 20:38:51.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Amateur Archaeologist]
+[19May2025 20:38:51.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Gave 1 [Night Vision Goggles] to ilis84]
