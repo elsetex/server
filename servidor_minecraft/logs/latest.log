@@ -7114,3 +7114,98 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [19May2025 18:39:15.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was pummeled by setexgamer
 [19May2025 18:39:15.066] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
 [19May2025 18:40:26.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[19May2025 18:42:53.189] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:plains took 94 ms
+[19May2025 18:42:59.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to -586.500000, 86.000000, 656.500000]
+[19May2025 18:42:59.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
+[19May2025 18:43:10.552] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 2120 ms
+[19May2025 18:43:10.604] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/GuiGraphics for invalid dist DEDICATED_SERVER
+[19May2025 18:43:17.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to -1007.500000, 86.000000, 2032.500000]
+[19May2025 18:43:21.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6181ms or 123 ticks behind
+[19May2025 18:43:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[19May2025 18:43:36.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/6135, l='ServerLevel[world]', x=-1011.32, y=85.94, z=2048.70] died, message: 'Nitwit was pummeled by setexgamer'
+[19May2025 18:43:36.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Knowledge of Death]
+[19May2025 18:43:36.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Neighborhood Brawl]
+[19May2025 18:43:42.768] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/6144, l='ServerLevel[world]', x=-1011.48, y=86.94, z=2052.71] died, message: 'Hunter Expert was pummeled by setexgamer'
+[19May2025 18:43:56.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19May2025 18:44:15.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
+[19May2025 18:44:33.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
+[19May2025 18:44:41.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6149, l='ServerLevel[world]', x=-975.99, y=105.20, z=2054.11] died, message: 'Unemployed was slain by Cyclops'
+[19May2025 18:44:51.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was incinerated by Fire Dragon
+[19May2025 18:44:51.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Your First Grave]
+[19May2025 18:44:51.795] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 18:44:53.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4634ms or 92 ticks behind
+[19May2025 18:45:13.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4669ms or 93 ticks behind
+[19May2025 18:45:23.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Fire Dragon
+[19May2025 18:45:23.593] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 18:45:33.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[19May2025 18:45:44.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Here They Come]
+[19May2025 18:45:51.577] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7727, l='ServerLevel[world]', x=-1030.38, y=80.00, z=2087.63] died, message: 'Unemployed got shocked'
+[19May2025 18:45:51.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
+[19May2025 18:45:56.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6138, l='ServerLevel[world]', x=-1003.55, y=92.83, z=2029.67] died, message: 'Farmer was slain by Fire Dragon'
+[19May2025 18:46:01.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6573, l='ServerLevel[world]', x=-1010.32, y=87.00, z=2033.70] died, message: 'Unemployed burned to death'
+[19May2025 18:46:09.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3291ms or 65 ticks behind
+[19May2025 18:46:14.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Chain Death]
+[19May2025 18:46:14.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Cyclops
+[19May2025 18:46:14.870] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 18:46:29.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4683ms or 93 ticks behind
+[19May2025 18:46:37.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6140, l='ServerLevel[world]', x=-1009.99, y=87.00, z=2035.73] died, message: 'Farmer burned to death'
+[19May2025 18:46:46.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Cyclops
+[19May2025 18:46:46.829] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 18:46:49.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[19May2025 18:46:58.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lightning was slain by Cyclops
+[19May2025 18:46:58.922] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 18:47:01.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6306, l='ServerLevel[world]', x=-1019.19, y=86.00, z=2023.30] died, message: 'Farmer was incinerated by Fire Dragon'
+[19May2025 18:47:07.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[19May2025 18:47:11.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6150, l='ServerLevel[world]', x=-1018.57, y=90.00, z=2074.11] died, message: 'Unemployed burned to death'
+[19May2025 18:47:13.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Here They Come]
+[19May2025 18:47:19.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10647, l='ServerLevel[world]', x=-1002.78, y=97.20, z=2079.02] died, message: 'Unemployed was slain by Cyclops'
+[19May2025 18:47:21.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Knowledge of Death]
+[19May2025 18:47:21.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Chain Death]
+[19May2025 18:47:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was incinerated by Fire Dragon
+[19May2025 18:47:21.109] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 18:47:25.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19May2025 18:47:29.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was incinerated by Fire Dragon
+[19May2025 18:47:29.569] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 18:47:30.946] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.hunter.HunterPlayer/]: Cannot get Hunter player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.hunter.HunterPlayer.getOpt(HunterPlayer.java:78) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onLivingAttack(ModPlayerEventHandler.java:321) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onLivingAttack_LivingAttackEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:269) ~[forge-1.20.1-47.3.7-universal.jar%23306!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1059) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.world.entity.animal.Animal.m_6469_(Animal.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at com.github.alexthe666.iceandfire.entity.EntityDragonBase.m_6469_(EntityDragonBase.java:1689) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23246!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.entity.EntityMutlipartPart.m_6469_(EntityMutlipartPart.java:270) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23246!/:2.1.13-1.20.1]
+	at net.threetag.palladium.entity.CustomProjectile.m_5790_(CustomProjectile.java:115) ~[palladium-4.1.5+1.20.1-forge.jar%23268!/:4.1.5+1.20.1]
+	at net.minecraft.world.entity.projectile.Projectile.m_6532_(Projectile.java:138) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.world.entity.projectile.ThrowableProjectile.m_8119_(ThrowableProjectile.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.threetag.palladium.entity.CustomProjectile.m_8119_(CustomProjectile.java:190) ~[palladium-4.1.5+1.20.1-forge.jar%23268!/:4.1.5+1.20.1]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23301!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[19May2025 18:47:39.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10775, l='ServerLevel[world]', x=-987.69, y=94.00, z=2020.30] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[19May2025 18:47:56.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19May2025 18:48:01.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 walked into fire whilst fighting Fire Dragon
+[19May2025 18:48:01.658] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 18:48:03.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6167, l='ServerLevel[world]', x=-987.51, y=96.00, z=2095.08] died, message: 'Unemployed was incinerated by Fire Dragon'
+[19May2025 18:48:08.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Knowledge raises the soul]
+[19May2025 18:48:18.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/6147, l='ServerLevel[world]', x=-1008.17, y=86.00, z=2046.18] died, message: 'Hunter Expert was incinerated by Fire Dragon'
+[19May2025 18:48:26.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[19May2025 18:48:26.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9666, l='ServerLevel[world]', x=-1020.28, y=83.05, z=2029.43] died, message: 'Unemployed burned to death'
+[19May2025 18:49:05.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19May2025 18:49:32.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[19May2025 18:49:32.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19May2025 18:49:54.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[19May2025 18:50:08.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Creative Mode]
+[19May2025 18:50:41.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
