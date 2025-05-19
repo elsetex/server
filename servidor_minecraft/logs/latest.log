@@ -1425,3 +1425,10 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [19May2025 23:22:39.012] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
 [19May2025 23:22:39.013] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
 [19May2025 23:22:39.013] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
+[19May2025 23:32:31.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Timed out
+[19May2025 23:32:31.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
+[19May2025 23:32:31.706] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
+[19May2025 23:34:35.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ilis84) moved wrongly! 0.2608162695513556
+[19May2025 23:35:57.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 1'/24324, l='ServerLevel[world]', x=-3224.51, y=62.53, z=1072.41] died: Alpha Werewolf Level 1 was slain by ilis84
+[19May2025 23:41:20.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was shot by Skeleton
+[19May2025 23:41:20.593] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved

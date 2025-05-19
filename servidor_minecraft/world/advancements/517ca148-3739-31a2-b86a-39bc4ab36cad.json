@@ -5028,15 +5028,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-05-19 23:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-05-19 23:44:01 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_boots": {
+    "criteria": {
+      "has_pelt": "2025-05-19 23:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-19 23:13:18 +0000"
     },
     "done": false
   },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2025-05-19 23:44:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_gray": {
+    "criteria": {
+      "has_wool": "2025-05-19 23:44:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-05-19 23:21:03 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_helmet": {
+    "criteria": {
+      "has_pelt": "2025-05-19 23:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-19 23:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_leggings": {
+    "criteria": {
+      "has_pelt": "2025-05-19 23:35:59 +0000"
+    },
+    "done": true
+  },
   "simpledrills:simple_drills": {
     "criteria": {
       "simple_drills_0": "2025-05-19 23:14:19 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_helmet": {
+    "criteria": {
+      "has_pelt": "2025-05-19 23:36:59 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-05-19 23:21:02 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_boots": {
+    "criteria": {
+      "has_pelt": "2025-05-19 23:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-19 23:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-19 23:44:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 23:21:24 +0000"
     },
     "done": true
   },
@@ -5046,15 +5160,123 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-05-19 23:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-19 23:13:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-05-19 23:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_chestplate": {
+    "criteria": {
+      "has_pelt": "2025-05-19 23:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-19 23:25:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-19 23:13:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 23:21:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_brown": {
+    "criteria": {
+      "has_wool": "2025-05-19 23:44:01 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-05-19 23:44:25 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_leggings": {
+    "criteria": {
+      "has_pelt": "2025-05-19 23:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-05-19 23:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-19 23:44:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-19 23:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-19 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_chestplate": {
+    "criteria": {
+      "has_pelt": "2025-05-19 23:36:59 +0000"
     },
     "done": true
   },
