@@ -6299,3 +6299,9 @@ java.lang.Throwable: null
 [19May2025 19:45:19.210] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
 [19May2025 19:47:37.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was shot by Skeleton
 [19May2025 19:47:37.312] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 19:48:57.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [A Strange Grave Dust]
+[19May2025 19:49:11.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Enderman
+[19May2025 19:49:11.464] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 19:51:34.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 starved to death
+[19May2025 19:51:34.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Your First Grave]
+[19May2025 19:51:34.747] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved

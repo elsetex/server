@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-19 19:48:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-05-19 19:42:09 +0000"
@@ -532,6 +538,7 @@
       "minecraft:skeleton": "2025-05-19 19:43:42 +0000",
       "minecraft:spider": "2025-05-19 19:42:00 +0000",
       "minecraft:witch": "2025-05-19 19:44:49 +0000",
+      "minecraft:enderman": "2025-05-19 19:50:29 +0000",
       "minecraft:zombie": "2025-05-19 19:43:21 +0000"
     },
     "done": false
@@ -956,6 +963,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-05-19 19:48:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
@@ -1154,6 +1167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-19 19:48:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
@@ -1295,6 +1314,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-19 19:49:02 +0000"
     },
     "done": true
   },
@@ -1718,6 +1743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2025-05-19 19:48:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
@@ -1952,6 +1983,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 19:44:59 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
@@ -1997,6 +2034,12 @@
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-05-19 19:48:49 +0000"
     },
     "done": true
   },
@@ -2117,6 +2160,12 @@
   "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2025-05-19 19:43:43 +0000"
+    },
+    "done": true
+  },
+  "moblassos:recipes/tools/golden_lasso": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-19 19:50:30 +0000"
     },
     "done": true
   },
@@ -2297,6 +2346,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-19 19:30:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-19 19:48:44 +0000"
     },
     "done": true
   },

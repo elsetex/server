@@ -20270,3 +20270,15 @@ java.lang.Throwable: null
 [19May2025 19:47:37.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was shot by Skeleton
 [19May2025 19:47:37.305] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-490, y:71, z:128, dim:minecraft:overworld]
 [19May2025 19:47:37.312] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 19:48:57.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [A Strange Grave Dust]
+[19May2025 19:49:11.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Enderman
+[19May2025 19:49:11.434] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-469, y:70, z:131, dim:minecraft:overworld]
+[19May2025 19:49:11.464] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[19May2025 19:49:55.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 19:49:55.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 19:51:34.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 starved to death
+[19May2025 19:51:34.746] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:-464, y:65, z:222, dim:minecraft:overworld]
+[19May2025 19:51:34.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Your First Grave]
+[19May2025 19:51:34.747] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[19May2025 19:54:55.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 19:54:55.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
