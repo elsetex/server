@@ -1719,6 +1719,7 @@
     "criteria": {
       "minecraft:taiga": "2025-05-20 20:26:21 +0000",
       "minecraft:sunflower_plains": "2025-05-19 21:13:22 +0000",
+      "minecraft:cherry_grove": "2025-05-20 20:42:20 +0000",
       "minecraft:birch_forest": "2025-05-19 19:37:38 +0000",
       "minecraft:windswept_hills": "2025-05-20 20:25:44 +0000",
       "minecraft:beach": "2025-05-19 19:34:57 +0000",
@@ -3430,6 +3431,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-20 20:46:22 +0000",
       "minecraft:skeleton": "2025-05-19 20:47:49 +0000",
       "minecraft:spider": "2025-05-19 20:44:37 +0000",
       "minecraft:zombified_piglin": "2025-05-19 23:13:54 +0000",
@@ -5842,9 +5844,45 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-05-20 20:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-20 20:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-05-20 20:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-20 20:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-20 20:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-20 20:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-20 20:44:01 +0000"
     },
     "done": true
   },
@@ -5854,9 +5892,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-20 20:47:11 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core": {
+    "criteria": {
+      "has_item": "2025-05-20 20:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-05-20 20:36:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-20 20:47:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-20 20:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-20 20:44:01 +0000"
     },
     "done": true
   },
