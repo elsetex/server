@@ -1579,3 +1579,17 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 02:29:38.559] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
 [20May2025 02:31:09.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9556, l='ServerLevel[world]', x=-1836.69, y=70.00, z=76.56] died, message: 'Farmer was slain by setexgamer'
 [20May2025 02:31:09.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Neighborhood Brawl]
+[20May2025 02:31:27.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9551, l='ServerLevel[world]', x=-1855.18, y=63.00, z=29.58] died, message: 'Librarian was slain by ilis84'
+[20May2025 02:31:39.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9569, l='ServerLevel[world]', x=-1855.40, y=67.00, z=30.05] died, message: 'Unemployed was slain by ilis84'
+[20May2025 02:32:45.753] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17032, l='ServerLevel[world]', x=-1836.62, y=70.00, z=76.31] died, message: 'Unemployed was slain by setexgamer'
+[20May2025 02:34:39.451] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9583, l='ServerLevel[world]', x=-1855.98, y=67.56, z=25.07] died, message: 'Unemployed was slain by ilis84'
+[20May2025 02:37:39.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/9568, l='ServerLevel[world]', x=-1855.24, y=67.00, z=30.70] died, message: 'Hunter Expert was slain by ilis84'
+[20May2025 02:38:25.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Timed out
+[20May2025 02:38:25.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[20May2025 02:38:25.755] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[20May2025 02:39:06.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilis84[/100.81.43.74:62741] logged in with entity id 18332 at (-1854.6226050615803, 65.26636799395752, 27.704461173328212)
+[20May2025 02:39:06.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 joined the game
+[20May2025 02:39:07.401] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[20May2025 02:39:07.405] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[20May2025 02:39:07.846] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
+[20May2025 02:39:15.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/17860, l='ServerLevel[world]', x=-1816.54, y=64.00, z=82.29] died: Undead Knight was slain by setexgamer
