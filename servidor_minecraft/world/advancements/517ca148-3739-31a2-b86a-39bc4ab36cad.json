@@ -5856,6 +5856,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-20 20:59:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-05-20 20:36:19 +0000"
@@ -5892,6 +5898,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-20 20:59:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-20 20:47:11 +0000"
@@ -5901,6 +5913,24 @@
   "celestisynth:recipes/misc/celestial_core": {
     "criteria": {
       "has_item": "2025-05-20 20:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-20 20:59:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-20 20:59:16 +0000"
+    },
+    "done": true
+  },
+  "moblassos:recipes/tools/golden_lasso": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-20 21:05:51 +0000"
     },
     "done": true
   },
