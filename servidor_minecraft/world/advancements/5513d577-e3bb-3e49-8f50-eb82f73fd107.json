@@ -6984,21 +6984,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "has_item": "2025-05-20 22:20:34 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
-    "criteria": {
-      "has_item": "2025-05-20 21:59:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-20 22:18:12 +0000"
+      "lightning_rod_with_villager_no_fire": "2025-05-20 20:54:19 +0000"
     },
     "done": true
   },
@@ -7008,33 +6996,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-20 21:59:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-05-20 22:23:07 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_frosted_prison": {
-    "criteria": {
-      "prison": "2025-05-20 22:18:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-05-20 21:54:08 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/smelting/scoria": {
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
-      "has_item": "2025-05-20 22:18:12 +0000"
+      "has_item": "2025-05-20 21:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-20 21:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-20 21:59:11 +0000"
     },
     "done": true
   },
@@ -7044,15 +7026,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
+  "cataclysm:find_frosted_prison": {
     "criteria": {
-      "has_item": "2025-05-20 22:19:13 +0000"
+      "prison": "2025-05-20 22:18:04 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-05-20 20:54:19 +0000"
+      "has_soul_sand": "2025-05-20 22:18:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-20 22:18:12 +0000"
     },
     "done": true
   },
@@ -7062,9 +7050,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
-      "has_iron_block": "2025-05-20 21:59:11 +0000"
+      "has_item": "2025-05-20 22:19:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-05-20 22:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-20 22:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-20 22:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-20 22:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-20 22:32:03 +0000"
     },
     "done": true
   },
