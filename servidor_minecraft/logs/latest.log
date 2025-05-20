@@ -1383,3 +1383,26 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 01:37:12.500] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:jungle_pyramid took 690 ms
 [20May2025 01:37:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 14064.500000, 76.519390, 10448.500000]
 [20May2025 01:37:21.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6780ms or 135 ticks behind
+[20May2025 01:38:18.330] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 2512 ms
+[20May2025 01:38:18.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[20May2025 01:38:27.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 13664.500000, 56.000000, 10288.500000]
+[20May2025 01:38:27.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved too quickly! 0.0,-10.739736813661118,0.0
+[20May2025 01:39:10.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:39:21.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:40:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:40:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:40:40.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:40:41.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:40:49.641] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert_pyramid took 29 ms
+[20May2025 01:40:55.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 6496.500000, 87.200000, -2431.500000]
+[20May2025 01:40:55.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
+[20May2025 01:41:22.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:41:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:41:50.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:41:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20May2025 01:42:25.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[20May2025 01:45:28.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Gave 1 [Milk Bucket] to setexgamer]
+[20May2025 01:48:31.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Gave 1 [Target Dummy] to setexgamer]
+[20May2025 01:48:40.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Disconnected
+[20May2025 01:48:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
+[20May2025 01:48:40.706] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
