@@ -11427,3 +11427,45 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 19:44:11.101] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
 [20May2025 19:44:12.615] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 4
 [20May2025 19:44:24.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Magery]
+[20May2025 19:44:41.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was doomed to fall by Fire Dragon
+[20May2025 19:44:41.797] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:-2393, y:70, z:929, dim:minecraft:overworld]
+[20May2025 19:44:41.886] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 19:44:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[20May2025 19:44:43.290] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 4
+[20May2025 19:45:07.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 19:45:43.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 19:45:43.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 19:47:07.534] [Worker-Main-30/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.053s
+[20May2025 19:47:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[20May2025 19:47:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[20May2025 19:49:27.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 19:50:43.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 19:50:43.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 19:51:11.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Strong or Careful]
+[20May2025 19:51:11.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was turned into KFC by Fire Dragon
+[20May2025 19:51:11.496] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-1718, y:-3, z:173, dim:minecraft:overworld]
+[20May2025 19:51:11.523] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:51:13.088] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 19:51:36.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was turned into KFC by Fire Dragon
+[20May2025 19:51:36.803] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-1706, y:-3, z:171, dim:minecraft:overworld]
+[20May2025 19:51:36.829] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:51:38.170] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 19:52:26.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was incinerated by Fire Dragon
+[20May2025 19:52:26.041] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-1690, y:10, z:190, dim:minecraft:overworld]
+[20May2025 19:52:26.074] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:52:27.260] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 19:52:43.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was incinerated by Fire Dragon
+[20May2025 19:52:43.238] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-1691, y:10, z:190, dim:minecraft:overworld]
+[20May2025 19:52:43.267] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:52:44.359] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 19:53:00.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was turned into KFC by Fire Dragon
+[20May2025 19:53:00.060] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-1683, y:17, z:202, dim:minecraft:overworld]
+[20May2025 19:53:00.073] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:53:01.352] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 19:53:14.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[20May2025 19:53:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Dragonslayer]
+[20May2025 19:53:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[20May2025 19:54:23.390] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[20May2025 19:54:58.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by setexgamer
+[20May2025 19:54:58.461] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:-1702, y:0, z:177, dim:minecraft:overworld]
+[20May2025 19:54:58.464] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved

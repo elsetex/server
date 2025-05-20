@@ -1354,3 +1354,27 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 19:44:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was burnt to a crisp whilst fighting Fire Dragon
 [20May2025 19:44:11.101] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
 [20May2025 19:44:24.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Magery]
+[20May2025 19:44:41.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was doomed to fall by Fire Dragon
+[20May2025 19:44:41.886] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 19:44:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[20May2025 19:45:07.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 19:47:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[20May2025 19:47:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[20May2025 19:49:27.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 19:51:11.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Strong or Careful]
+[20May2025 19:51:11.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was turned into KFC by Fire Dragon
+[20May2025 19:51:11.523] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:51:36.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was turned into KFC by Fire Dragon
+[20May2025 19:51:36.829] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:52:26.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was incinerated by Fire Dragon
+[20May2025 19:52:26.074] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:52:43.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was incinerated by Fire Dragon
+[20May2025 19:52:43.267] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:53:00.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was turned into KFC by Fire Dragon
+[20May2025 19:53:00.073] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 19:53:14.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[20May2025 19:53:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Dragonslayer]
+[20May2025 19:53:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[20May2025 19:54:23.390] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[20May2025 19:54:58.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by setexgamer
+[20May2025 19:54:58.464] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved

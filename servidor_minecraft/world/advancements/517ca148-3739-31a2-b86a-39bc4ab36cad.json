@@ -1726,7 +1726,9 @@
       "minecraft:cold_ocean": "2025-05-19 21:26:49 +0000",
       "minecraft:forest": "2025-05-19 19:30:59 +0000",
       "minecraft:ocean": "2025-05-19 19:40:09 +0000",
+      "minecraft:flower_forest": "2025-05-20 19:40:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-19 19:34:49 +0000",
+      "minecraft:meadow": "2025-05-20 19:41:04 +0000",
       "minecraft:plains": "2025-05-19 20:31:22 +0000"
     },
     "done": false
@@ -2409,6 +2411,7 @@
       "cooked_mutton": "2025-05-19 21:34:30 +0000",
       "cooked_beef": "2025-05-19 21:30:13 +0000",
       "porkchop": "2025-05-19 19:36:00 +0000",
+      "apple": "2025-05-20 19:46:05 +0000",
       "mutton": "2025-05-19 19:39:02 +0000",
       "bread": "2025-05-19 20:45:21 +0000",
       "golden_apple": "2025-05-19 21:03:19 +0000",
@@ -5422,6 +5425,30 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-05-20 02:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-20 19:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-20 19:49:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-20 19:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-20 19:49:54 +0000"
     },
     "done": true
   },
