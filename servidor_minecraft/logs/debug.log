@@ -11996,3 +11996,111 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ope
 [20May2025 22:14:44.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20May2025 22:14:52.000] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/53012, l='ServerLevel[world]', x=275.09, y=90.00, z=-2193.53] died, message: 'Unemployed was slain by Royal Draugr'
 [20May2025 22:14:52.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20May2025 22:15:01.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/51854, l='ServerLevel[world]', x=318.42, y=77.00, z=-2235.53] died, message: 'Unemployed was slain by Royal Draugr'
+[20May2025 22:15:08.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/52417, l='ServerLevel[world]', x=309.22, y=82.18, z=-2233.67] died, message: 'Unemployed was slain by Royal Draugr'
+[20May2025 22:15:09.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[20May2025 22:15:46.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20May2025 22:15:49.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/53408, l='ServerLevel[world]', x=287.06, y=90.00, z=-2208.50] died, message: 'Unemployed was slain by Draugr'
+[20May2025 22:16:03.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20May2025 22:16:16.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [My Name is Nobody]
+[20May2025 22:16:22.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20May2025 22:16:39.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[20May2025 22:16:57.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[20May2025 22:17:14.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[20May2025 22:17:32.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
+[20May2025 22:17:49.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2697ms or 53 ticks behind
+[20May2025 22:18:03.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:18:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Frosted Prison]
+[20May2025 22:20:05.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 22:20:05.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 22:20:07.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:20:07.077] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:273, y:52, z:-2257, dim:minecraft:overworld]
+[20May2025 22:20:07.096] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:20:08.861] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 22:20:10.576] [Worker-Main-45/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.05s
+[20May2025 22:20:13.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Maledictus
+[20May2025 22:20:13.478] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:271, y:52, z:-2249, dim:minecraft:overworld]
+[20May2025 22:20:13.512] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:20:14.678] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
+[20May2025 22:20:36.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Maledictus
+[20May2025 22:20:36.812] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:271, y:52, z:-2247, dim:minecraft:overworld]
+[20May2025 22:20:36.841] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:20:38.771] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
+[20May2025 22:20:40.519] [Worker-Main-44/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.069s
+[20May2025 22:20:42.978] [Worker-Main-34/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 21.445s
+[20May2025 22:20:53.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:20:53.562] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:267, y:51, z:-2246, dim:minecraft:overworld]
+[20May2025 22:20:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:20:53.567] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:272, y:53, z:-2254, dim:minecraft:overworld]
+[20May2025 22:20:53.612] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:20:53.612] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:20:55.208] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 22:20:55.257] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
+[20May2025 22:20:56.512] [Worker-Main-40/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.075s
+[20May2025 22:21:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:21:14.160] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:266, y:52, z:-2244, dim:minecraft:overworld]
+[20May2025 22:21:14.204] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:21:15.913] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
+[20May2025 22:21:17.528] [Worker-Main-44/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.07s
+[20May2025 22:21:23.789] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 21.225s
+[20May2025 22:21:41.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:21:41.660] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:268, y:52, z:-2273, dim:minecraft:overworld]
+[20May2025 22:21:41.703] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:21:43.249] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 22:21:44.500] [Worker-Main-40/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.057s
+[20May2025 22:22:32.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:22:32.962] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:264, y:52, z:-2269, dim:minecraft:overworld]
+[20May2025 22:22:32.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:22:32.967] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:262, y:52, z:-2270, dim:minecraft:overworld]
+[20May2025 22:22:33.011] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:22:33.012] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:22:34.682] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 22:22:35.012] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
+[20May2025 22:22:35.512] [Worker-Main-34/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.07s
+[20May2025 22:22:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:22:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:22:58.963] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:256, y:53, z:-2268, dim:minecraft:overworld]
+[20May2025 22:22:58.997] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:23:00.572] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 22:23:02.528] [Worker-Main-45/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.067s
+[20May2025 22:23:02.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:23:08.948] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 21.484s
+[20May2025 22:23:23.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:23:23.563] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:269, y:52, z:-2260, dim:minecraft:overworld]
+[20May2025 22:23:23.593] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:23:25.603] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
+[20May2025 22:23:27.534] [Worker-Main-34/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.056s
+[20May2025 22:23:36.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:23:36.176] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:265, y:52, z:-2261, dim:minecraft:overworld]
+[20May2025 22:23:36.225] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:23:38.080] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 22:23:39.529] [Worker-Main-40/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.066s
+[20May2025 22:23:41.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:23:52.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:23:52.862] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:263, y:52, z:-2261, dim:minecraft:overworld]
+[20May2025 22:23:52.902] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:23:54.905] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
+[20May2025 22:23:56.535] [Worker-Main-44/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.067s
+[20May2025 22:24:03.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:24:03.462] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:273, y:53, z:-2271, dim:minecraft:overworld]
+[20May2025 22:24:03.507] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:24:05.255] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 22:24:06.510] [Worker-Main-45/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.06s
+[20May2025 22:24:06.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus 's Arrow
+[20May2025 22:24:06.903] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:260, y:52, z:-2258, dim:minecraft:overworld]
+[20May2025 22:24:06.923] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:24:08.098] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
+[20May2025 22:24:35.846] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 21.392s
+[20May2025 22:24:58.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:24:58.312] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:259, y:51, z:-2250, dim:minecraft:overworld]
+[20May2025 22:24:58.341] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:24:59.905] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 22:25:01.503] [Worker-Main-40/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.062s
+[20May2025 22:25:03.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:25:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:25:04.843] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:25:05.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 22:25:05.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 22:25:06.420] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 22:25:07.510] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.051s
+[20May2025 22:25:09.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]

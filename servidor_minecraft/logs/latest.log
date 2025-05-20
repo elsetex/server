@@ -1510,3 +1510,57 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ope
 [20May2025 22:14:28.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [20May2025 22:14:52.000] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/53012, l='ServerLevel[world]', x=275.09, y=90.00, z=-2193.53] died, message: 'Unemployed was slain by Royal Draugr'
 [20May2025 22:14:52.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20May2025 22:15:01.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/51854, l='ServerLevel[world]', x=318.42, y=77.00, z=-2235.53] died, message: 'Unemployed was slain by Royal Draugr'
+[20May2025 22:15:08.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/52417, l='ServerLevel[world]', x=309.22, y=82.18, z=-2233.67] died, message: 'Unemployed was slain by Royal Draugr'
+[20May2025 22:15:09.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[20May2025 22:15:46.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20May2025 22:15:49.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/53408, l='ServerLevel[world]', x=287.06, y=90.00, z=-2208.50] died, message: 'Unemployed was slain by Draugr'
+[20May2025 22:16:03.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20May2025 22:16:16.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [My Name is Nobody]
+[20May2025 22:16:22.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20May2025 22:16:39.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[20May2025 22:16:57.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[20May2025 22:17:14.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[20May2025 22:17:32.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
+[20May2025 22:17:49.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2697ms or 53 ticks behind
+[20May2025 22:18:03.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:18:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Frosted Prison]
+[20May2025 22:20:07.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:20:07.096] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:20:13.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Maledictus
+[20May2025 22:20:13.512] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:20:36.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Maledictus
+[20May2025 22:20:36.841] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:20:53.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:20:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:20:53.612] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:20:53.612] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:21:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:21:14.204] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:21:41.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:21:41.703] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:22:32.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:22:32.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:22:33.011] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:22:33.012] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:22:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:22:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:22:58.997] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:23:02.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:23:23.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:23:23.593] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:23:36.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:23:36.225] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:23:41.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:23:52.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus
+[20May2025 22:23:52.902] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:24:03.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:24:03.507] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:24:06.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was cursed by Maledictus 's Arrow
+[20May2025 22:24:06.923] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 22:24:58.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:24:58.341] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:25:03.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 22:25:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was cursed by Maledictus
+[20May2025 22:25:04.843] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 22:25:09.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
