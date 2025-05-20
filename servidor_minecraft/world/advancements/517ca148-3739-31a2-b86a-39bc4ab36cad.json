@@ -6664,6 +6664,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-20 23:09:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-05-20 23:03:04 +0000"
@@ -6691,6 +6697,12 @@
   "cataclysm:kill_maledictus": {
     "criteria": {
       "ignis": "2025-05-20 22:58:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-20 23:09:13 +0000"
     },
     "done": true
   },

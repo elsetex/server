@@ -2003,3 +2003,13 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 23:08:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
 [20May2025 23:08:15.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Adventure Mode]
 [20May2025 23:08:19.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[20May2025 23:11:53.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19800, l='ServerLevel[world]', x=-1858.24, y=63.00, z=27.30] died, message: 'Unemployed was slain by Zombie'
+[20May2025 23:11:56.169] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19314, l='ServerLevel[world]', x=-1836.85, y=65.00, z=36.57] died, message: 'Unemployed was slain by Zombie'
+[20May2025 23:11:58.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22077, l='ServerLevel[world]', x=-1858.56, y=63.00, z=25.19] died, message: 'Unemployed was slain by Zombie'
+[20May2025 23:12:54.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/19261, l='ServerLevel[world]', x=-1869.70, y=63.00, z=41.30] died, message: 'Librarian was slain by Zombie Villager'
+[20May2025 23:13:56.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22478, l='ServerLevel[world]', x=-1860.89, y=66.94, z=18.11] died, message: 'Unemployed was slain by Zombie Villager'
+[20May2025 23:14:08.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22367, l='ServerLevel[world]', x=-1893.93, y=63.00, z=10.28] died, message: 'Unemployed was slain by Zombie'
+[20May2025 23:14:31.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19325, l='ServerLevel[world]', x=-1934.14, y=64.00, z=31.70] died, message: 'Unemployed was sucked dry'
+[20May2025 23:14:41.200] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/22075, l='ServerLevel[world]', x=-1843.27, y=69.00, z=64.51] died, message: 'Librarian was slain by Zombie'
+[20May2025 23:29:42.440] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20May2025 23:29:42.440] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
