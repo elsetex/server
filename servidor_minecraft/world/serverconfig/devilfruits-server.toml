@@ -11,7 +11,7 @@
 		max_copy_of_the_same_devil_fruit = 1
 		#Sets the probability for a devil fruit to spawn during a loot generation, though a devil fruit still need to be available to spawn. This value need to be between 0.0 (no fruit will spawn) and 1.0 (a fruit will always spawn if one is available). This value can be changed in game by using a command. [Default: 0.01]
 		#Range: 0.0 ~ 1.0
-		probability_for_a_fruit_to_spawn = 1.0
+		probability_for_a_fruit_to_spawn = 0.01
 
 	["Devil Fruits"."Blacklisted Abilities"]
 		#Sets the list of active abilities that will never be given to devil fruit user, and thus will not be obtainable without commands. The format is: ["mod_id:ability_key_1", "mod_id:ability_key_2"]. If for example you wish to disable the room active ability this option will be set to: ["devilfruits:room"]. Using the "/speedscore abilities active [target] add" command suggest every existing abilities, so if you search for a specific one you can look through the suggested list.
