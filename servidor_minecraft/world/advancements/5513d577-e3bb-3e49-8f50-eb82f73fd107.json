@@ -2942,7 +2942,8 @@
       "minecraft:wither_skeleton": "2025-05-20 00:21:12 +0000",
       "minecraft:husk": "2025-05-20 19:58:23 +0000",
       "minecraft:enderman": "2025-05-19 19:50:29 +0000",
-      "minecraft:zombie": "2025-05-19 19:43:21 +0000"
+      "minecraft:zombie": "2025-05-19 19:43:21 +0000",
+      "minecraft:zombie_villager": "2025-05-20 20:05:29 +0000"
     },
     "done": false
   },

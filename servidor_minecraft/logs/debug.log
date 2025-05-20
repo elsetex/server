@@ -11493,3 +11493,41 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 20:01:34.720] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [20May2025 20:03:36.411] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [20May2025 20:04:48.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20May2025 20:05:43.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 20:05:43.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 20:08:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[20May2025 20:08:30.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 0.2144278424334516,-10.575193366643866,-0.6477481524721043
+[20May2025 20:09:21.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[20May2025 20:10:02.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[20May2025 20:10:43.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 20:10:43.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 20:10:45.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[20May2025 20:11:12.545] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20May2025 20:11:12.545] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20May2025 20:11:18.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was incinerated by Fire Dragon
+[20May2025 20:11:18.441] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-602, y:0, z:-1165, dim:minecraft:overworld]
+[20May2025 20:11:18.464] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 20:11:20.088] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 20:11:20.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -2.4330112995259014,3.656839308454092,9.30476554809502
+[20May2025 20:11:21.541] [Worker-Main-19/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.06s
+[20May2025 20:11:35.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was turned into KFC by Fire Dragon
+[20May2025 20:11:35.237] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-603, y:-1, z:-1182, dim:minecraft:overworld]
+[20May2025 20:11:35.266] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 20:11:36.941] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 20:11:38.552] [Worker-Main-23/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.055s
+[20May2025 20:11:48.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was turned into KFC by Fire Dragon
+[20May2025 20:11:48.687] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-604, y:-1, z:-1178, dim:minecraft:overworld]
+[20May2025 20:11:48.713] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 20:11:50.201] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[20May2025 20:11:51.525] [Worker-Main-23/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.054s
+[20May2025 20:12:18.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 2.8776814215352715,9.83424784184783,1.0388849863850282
+[20May2025 20:13:20.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Mother of Dragons]
+[20May2025 20:14:17.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Chest Slayer]
+[20May2025 20:14:44.582] [Worker-Main-17/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[20May2025 20:14:44.583] [Worker-Main-17/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[20May2025 20:14:53.569] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[20May2025 20:14:53.569] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[20May2025 20:14:53.570] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[20May2025 20:14:53.571] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[20May2025 20:14:53.571] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[20May2025 20:15:20.548] [Worker-Main-17/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.061s
