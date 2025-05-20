@@ -12814,3 +12814,21 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 22:59:08.351] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
 [20May2025 22:59:10.351] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
 [20May2025 22:59:11.758] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.068s
+[20May2025 23:00:02.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 10.144416531995859,-1.2491870787446828,0.4253155987871651
+[20May2025 23:00:05.758] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.056s
+[20May2025 23:00:23.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 23:00:23.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 23:00:48.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19324, l='ServerLevel[world]', x=-1934.18, y=64.00, z=31.70] died, message: 'Unemployed was sucked dry'
+[20May2025 23:02:31.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15772, l='ServerLevel[world]', x=292.00, y=90.00, z=-2236.50] died, message: 'Unemployed was slain by Draugr'
+[20May2025 23:03:20.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[20May2025 23:04:51.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
+[20May2025 23:04:59.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[20May2025 23:05:23.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 23:05:23.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 23:05:35.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
+[20May2025 23:05:47.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[20May2025 23:08:08.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Adventure Mode]
+[20May2025 23:08:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
+[20May2025 23:08:15.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Adventure Mode]
+[20May2025 23:08:19.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[20May2025 23:08:29.015] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:vampire at BlockPos{x=-1849, y=64, z=46} with badomen level 0
