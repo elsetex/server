@@ -713,3 +713,131 @@ java.lang.Throwable: null
 [20May2025 00:58:52.530] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
 [20May2025 00:58:57.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was doomed to fall by Fire Dragon
 [20May2025 00:58:57.091] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 00:59:33.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20May2025 01:01:15.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was incinerated by Fire Dragon
+[20May2025 01:01:15.154] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 01:01:23.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved too quickly! 0.1104132686664343,-10.287592896255177,-1.042775949570796
+[20May2025 01:01:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer fell from a high place
+[20May2025 01:01:24.370] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 01:01:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Chain Death]
+[20May2025 01:01:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was turned into KFC by Fire Dragon
+[20May2025 01:01:49.948] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 01:02:12.228] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:buried_treasure took 17996 ms
+[20May2025 01:02:12.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17982ms or 359 ticks behind
+[20May2025 01:02:22.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to -4550.500000, 32.000000, 793.500000]
+[20May2025 01:02:22.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Discreet Search]
+[20May2025 01:02:35.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer suffocated in a wall
+[20May2025 01:02:35.740] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[20May2025 01:04:35.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to -4550.500000, 31.000000, 793.500000]
+[20May2025 01:05:42.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Timed out
+[20May2025 01:05:42.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[20May2025 01:05:42.672] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[20May2025 01:05:59.444] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 0 ms
+[20May2025 01:06:02.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to -4735.500000, 62.000000, 752.500000]
+[20May2025 01:06:23.969] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert_pyramid took 2550 ms
+[20May2025 01:06:23.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[20May2025 01:06:24.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilis84[/100.81.43.74:54437] logged in with entity id 52580 at (-3808.247411002006, 62.92159999847412, 728.6232129620271)
+[20May2025 01:06:24.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 joined the game
+[20May2025 01:06:24.565] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[20May2025 01:06:24.570] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[20May2025 01:06:25.851] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
+[20May2025 01:06:33.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to -6287.500000, 67.000000, 4464.500000]
+[20May2025 01:06:41.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was impaled by Drowned
+[20May2025 01:06:41.487] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 01:06:59.406] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
+[20May2025 01:06:59.407] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
+[20May2025 01:06:59.407] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
+[20May2025 01:07:06.387] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[20May2025 01:07:06.388] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[20May2025 01:07:09.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Timed out
+[20May2025 01:07:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[20May2025 01:07:09.233] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[20May2025 01:07:17.741] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
+[20May2025 01:07:17.741] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
+[20May2025 01:07:17.741] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
+[20May2025 01:07:19.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [How long's this been here?]
+[20May2025 01:08:00.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 10000.500000, 57.820000, 4472.940000]
+[20May2025 01:08:00.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4922ms or 98 ticks behind
+[20May2025 01:08:00.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:08:02.296] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20May2025 01:08:02.306] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20May2025 01:08:11.993] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert_pyramid took 5534 ms
+[20May2025 01:08:17.168] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[20May2025 01:08:23.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 13904.500000, 57.000000, 8784.500000]
+[20May2025 01:08:23.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6731ms or 134 ticks behind
+[20May2025 01:08:29.999] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Set ID to f2a8c764-fc8b-4e8f-a76d-bfe8ddde681a
+[20May2025 01:08:29.999] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Added Transporter f2a8c764-fc8b-4e8f-a76d-bfe8ddde681a to BlockEntityList
+[20May2025 01:08:32.328] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Set ID to 9c966ead-c21f-48f4-b2ff-c101540080d8
+[20May2025 01:08:32.328] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Added Transporter 9c966ead-c21f-48f4-b2ff-c101540080d8 to BlockEntityList
+[20May2025 01:08:57.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:01.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:02.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:03.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:05.832] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:05.967] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:06.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:08.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:10.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:28.148] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:buried_treasure took 12824 ms
+[20May2025 01:09:28.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12801ms or 256 ticks behind
+[20May2025 01:09:30.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:34.656] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:38.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:41.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20May2025 01:09:46.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 14153.500000, 58.000000, 8377.500000]
+[20May2025 01:09:46.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[20May2025 01:10:24.853] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 558 ms
+[20May2025 01:10:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 13824.500000, 82.660352, 8032.500000]
+[20May2025 01:10:32.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
+[20May2025 01:10:51.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved too quickly! 0.24795485675349482,-10.491363665079277,0.9071471130255304
+[20May2025 01:11:09.700] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[20May2025 01:11:09.700] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[20May2025 01:11:20.352] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20May2025 01:11:20.353] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20May2025 01:14:00.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 15000.500000, 25.506827, 8032.774947]
+[20May2025 01:14:00.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
+[20May2025 01:14:00.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved too quickly! 0.0,16.687500663136735,4.991223134073152
+[20May2025 01:14:06.894] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert_pyramid took 117 ms
+[20May2025 01:14:27.388] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 1559 ms
+[20May2025 01:14:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 14144.500000, 26.200000, 7296.500000]
+[20May2025 01:14:37.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5452ms or 109 ticks behind
+[20May2025 01:15:07.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:15:11.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:15:17.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:15:22.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Alex's Caves]
+[20May2025 01:15:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:15:26.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:15:32.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20May2025 01:15:35.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:15:56.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:16:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:16:14.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:16:25.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:16:45.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:16:51.573] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20May2025 01:16:51.574] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20May2025 01:17:03.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:17:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20May2025 01:17:08.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:17:12.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20May2025 01:17:34.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:17:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[20May2025 01:17:53.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Adventure Mode]
+[20May2025 01:17:54.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:17:56.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Adventure Mode]
+[20May2025 01:18:03.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:18:11.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Adventure Mode]
+[20May2025 01:18:13.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:18:16.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:18:20.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:18:25.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved too quickly! 6.1885049102093035,-0.11583129501580203,8.926567977959166
+[20May2025 01:18:40.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:18:41.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Once Upon a Cave]
+[20May2025 01:18:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:18:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:19:04.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:19:09.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:19:18.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:19:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[20May2025 01:19:29.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[20May2025 01:20:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
