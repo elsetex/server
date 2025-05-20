@@ -1593,3 +1593,23 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 02:39:07.405] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
 [20May2025 02:39:07.846] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
 [20May2025 02:39:15.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/17860, l='ServerLevel[world]', x=-1816.54, y=64.00, z=82.29] died: Undead Knight was slain by setexgamer
+[20May2025 02:52:57.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Timed out
+[20May2025 02:52:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[20May2025 02:52:57.105] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[20May2025 02:55:33.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilis84[/100.81.43.74:52948] logged in with entity id 20912 at (-1864.2584408903783, 64.12182183872136, 50.371471446918434)
+[20May2025 02:55:33.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 joined the game
+[20May2025 02:55:34.210] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[20May2025 02:55:34.214] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[20May2025 02:55:35.663] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
+[20May2025 02:56:03.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Timed out
+[20May2025 02:56:03.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[20May2025 02:56:03.853] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[20May2025 02:56:45.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilis84[/100.81.43.74:52996] logged in with entity id 21071 at (-1864.2584408903783, 64.12182183872136, 50.371471446918434)
+[20May2025 02:56:45.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 joined the game
+[20May2025 02:56:46.002] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[20May2025 02:56:46.007] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[20May2025 02:56:47.669] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
+[20May2025 02:56:54.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was blown up by Creeper
+[20May2025 02:56:54.105] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 02:57:15.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Timed out
+[20May2025 02:57:15.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
