@@ -1378,3 +1378,13 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 19:54:23.390] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [20May2025 19:54:58.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by setexgamer
 [20May2025 19:54:58.464] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 19:55:20.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Cover Me with Diamonds]
+[20May2025 19:56:57.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [A Throwaway Joke]
+[20May2025 19:58:08.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Madam Martin the Morbius
+[20May2025 19:58:08.209] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 19:58:23.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Bone Crusher]
+[20May2025 19:58:23.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Madam Martin the Morbius'/12428, l='ServerLevel[world]', x=-1711.66, y=-9.00, z=142.49] died: Madam Martin the Morbius was slain by setexgamer
+[20May2025 19:58:25.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has completed the challenge [He Wasn't So Strong]
+[20May2025 19:58:31.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Magic Writing]
+[20May2025 19:59:24.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mr. President Bobette the Marbles Winner'/12746, l='ServerLevel[world]', x=-1765.82, y=-35.00, z=135.62] died: Mr. President Bobette the Marbles Winner was slain by ilis84
+[20May2025 20:01:16.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Reverend Jonette the Sage'/12923, l='ServerLevel[world]', x=-1764.70, y=-34.00, z=114.70] died: Reverend Jonette the Sage was slain by ilis84
