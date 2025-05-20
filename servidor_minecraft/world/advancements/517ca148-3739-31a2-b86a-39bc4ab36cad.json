@@ -1730,6 +1730,7 @@
       "minecraft:swamp": "2025-05-20 20:23:47 +0000",
       "minecraft:cold_ocean": "2025-05-19 21:26:49 +0000",
       "minecraft:forest": "2025-05-19 19:30:59 +0000",
+      "minecraft:lush_caves": "2025-05-20 21:16:00 +0000",
       "minecraft:ocean": "2025-05-19 19:40:09 +0000",
       "minecraft:flower_forest": "2025-05-20 19:40:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-19 19:34:49 +0000",
@@ -5892,6 +5893,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_item_a": "2025-05-20 21:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-05-20 20:36:19 +0000"
@@ -5931,6 +5938,18 @@
   "moblassos:recipes/tools/golden_lasso": {
     "criteria": {
       "has_ender_pearl": "2025-05-20 21:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-20 21:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-20 21:19:03 +0000"
     },
     "done": true
   },
