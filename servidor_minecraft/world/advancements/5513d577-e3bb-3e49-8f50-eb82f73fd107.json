@@ -7074,15 +7074,177 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "moblassos:recipes/tools/aqua_lasso": {
+    "criteria": {
+      "has_golden_lasso": "2025-05-20 22:46:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/smelting/calorite_ingot_from_smelting_venus_calorite_ore": {
+    "criteria": {
+      "has_calorite_ingot": "2025-05-20 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-20 22:45:22 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-05-20 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blasting/calorite_ingot_from_blasting_venus_calorite_ore": {
+    "criteria": {
+      "has_calorite_ingot": "2025-05-20 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-05-20 22:32:03 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-05-20 22:32:03 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "moblassos:recipes/tools/hostile_lasso": {
+    "criteria": {
+      "has_golden_lasso": "2025-05-20 22:46:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/tier_1_rover": {
+    "criteria": {
+      "has_tier_1_rover": "2025-05-20 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "moblassos:recipes/tools/emerald_lasso": {
+    "criteria": {
+      "has_golden_lasso": "2025-05-20 22:46:08 +0000"
     },
     "done": true
   },
