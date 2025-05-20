@@ -1726,12 +1726,14 @@
       "minecraft:dark_forest": "2025-05-19 19:35:43 +0000",
       "minecraft:river": "2025-05-19 19:36:23 +0000",
       "minecraft:stony_shore": "2025-05-19 21:26:38 +0000",
+      "minecraft:snowy_plains": "2025-05-20 21:47:16 +0000",
       "minecraft:dripstone_caves": "2025-05-20 19:51:02 +0000",
       "minecraft:swamp": "2025-05-20 20:23:47 +0000",
       "minecraft:cold_ocean": "2025-05-19 21:26:49 +0000",
       "minecraft:forest": "2025-05-19 19:30:59 +0000",
       "minecraft:lush_caves": "2025-05-20 21:16:00 +0000",
       "minecraft:ocean": "2025-05-19 19:40:09 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-20 21:42:44 +0000",
       "minecraft:flower_forest": "2025-05-20 19:40:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-19 19:34:49 +0000",
       "minecraft:meadow": "2025-05-20 19:41:04 +0000",
@@ -3436,10 +3438,12 @@
       "minecraft:pillager": "2025-05-20 20:46:22 +0000",
       "minecraft:skeleton": "2025-05-19 20:47:49 +0000",
       "minecraft:spider": "2025-05-19 20:44:37 +0000",
+      "minecraft:creeper": "2025-05-20 21:33:18 +0000",
       "minecraft:zombified_piglin": "2025-05-19 23:13:54 +0000",
       "minecraft:husk": "2025-05-19 20:54:48 +0000",
       "minecraft:cave_spider": "2025-05-20 20:05:07 +0000",
       "minecraft:silverfish": "2025-05-19 20:53:26 +0000",
+      "minecraft:enderman": "2025-05-20 21:34:32 +0000",
       "minecraft:zombie": "2025-05-19 20:47:48 +0000",
       "minecraft:drowned": "2025-05-19 21:16:58 +0000",
       "minecraft:zombie_villager": "2025-05-19 21:07:36 +0000"
@@ -5858,6 +5862,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-05-20 21:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-05-20 21:22:13 +0000"
@@ -5867,6 +5877,12 @@
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
       "has_item": "2025-05-20 20:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 21:48:46 +0000"
     },
     "done": true
   },
@@ -5888,15 +5904,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-20 21:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-05-20 20:36:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 21:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-05-20 21:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 21:48:46 +0000"
     },
     "done": true
   },
@@ -5936,15 +5970,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-20 21:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-05-20 20:44:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 21:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-05-20 21:23:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-20 21:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 21:39:24 +0000"
     },
     "done": true
   },
@@ -6050,6 +6108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-20 21:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2025-05-20 21:21:00 +0000"
@@ -6080,9 +6144,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 21:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-20 21:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-20 21:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-20 21:34:33 +0000"
     },
     "done": true
   },
@@ -6098,6 +6180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 21:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-20 20:44:01 +0000"
@@ -6107,6 +6195,24 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-20 21:22:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-05-20 21:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-20 21:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-20 21:48:09 +0000"
     },
     "done": true
   },

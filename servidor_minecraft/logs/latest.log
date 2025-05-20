@@ -1465,3 +1465,28 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ope
 [20May2025 21:25:40.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [20May2025 21:31:26.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Count Lillian the Mighty'/22624, l='ServerLevel[world]', x=-2324.24, y=-44.00, z=-698.70] died: Count Lillian the Mighty was slain by ilis84
 [20May2025 21:32:32.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17115, l='ServerLevel[world]', x=-1934.00, y=64.00, z=31.70] died, message: 'Unemployed was sucked dry'
+[20May2025 21:35:39.667] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[20May2025 21:41:38.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20May2025 21:42:03.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[20May2025 21:42:26.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20May2025 21:45:55.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has completed the challenge [Just a Flesh Wound]
+[20May2025 21:47:05.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/17135, l='ServerLevel[world]', x=-1796.70, y=56.00, z=32.50] died, message: 'Librarian was slain by Zombie'
+[20May2025 21:47:14.426] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17134, l='ServerLevel[world]', x=-1799.70, y=59.00, z=32.51] died, message: 'Unemployed was slain by Zombie Villager'
+[20May2025 21:47:21.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17136, l='ServerLevel[world]', x=-1796.10, y=55.00, z=33.30] died, message: 'Unemployed was slain by Zombie Villager'
+[20May2025 21:48:09.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Spooky Scary Skeleton]
+[20May2025 21:49:20.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -2.4405787387237865,8.902530238032341,-6.467687086359547
+[20May2025 21:50:50.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[20May2025 21:51:45.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Captured!]
+[20May2025 21:51:58.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[20May2025 21:51:58.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[20May2025 21:51:58.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[20May2025 21:52:00.013] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[20May2025 21:52:00.013] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[20May2025 21:52:00.013] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[20May2025 21:52:00.014] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[20May2025 21:52:00.020] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[20May2025 21:53:23.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[20May2025 21:53:57.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17107, l='ServerLevel[world]', x=-1838.32, y=63.00, z=0.96] died, message: 'Unemployed was slain by ilis84'
+[20May2025 21:55:15.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17121, l='ServerLevel[world]', x=-1843.72, y=64.00, z=25.13] died, message: 'Unemployed was slain by ilis84'
+[20May2025 21:55:54.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17123, l='ServerLevel[world]', x=-1864.41, y=67.00, z=11.24] died, message: 'Unemployed was slain by setexgamer'
+[20May2025 22:03:42.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Dragonslayer]
