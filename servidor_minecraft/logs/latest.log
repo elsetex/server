@@ -1405,3 +1405,36 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 20:12:18.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 2.8776814215352715,9.83424784184783,1.0388849863850282
 [20May2025 20:13:20.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Mother of Dragons]
 [20May2025 20:14:17.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Chest Slayer]
+[20May2025 20:16:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[20May2025 20:16:43.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[20May2025 20:17:13.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17972, l='ServerLevel[world]', x=-1849.50, y=63.00, z=42.50] died, message: 'Unemployed was slain by ilis84'
+[20May2025 20:17:14.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17971, l='ServerLevel[world]', x=-1852.58, y=62.94, z=44.00] died, message: 'Unemployed was slain by ilis84'
+[20May2025 20:17:18.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Iron Golem
+[20May2025 20:17:18.168] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[20May2025 20:17:43.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 7.716129801332727,-1.0339409753680258,-7.299275543302109
+[20May2025 20:18:35.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -3.0594771482324177,1.8964858618085714,-9.36062827187872
+[20May2025 20:18:53.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -1.5210045033743427,-1.1577925301426575,10.27967860154132
+[20May2025 20:18:57.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -9.862755111711976,-2.3618853241309807,-2.5008479399818526
+[20May2025 20:19:01.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -10.011245820160639,-0.16911298717155887,-1.1131412571521935
+[20May2025 20:19:18.403] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17974, l='ServerLevel[world]', x=-1921.86, y=62.94, z=43.51] died, message: 'Unemployed was slain by ilis84'
+[20May2025 20:20:59.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18865, l='ServerLevel[world]', x=-1839.30, y=69.00, z=79.30] died, message: 'Unemployed was slain by ilis84'
+[20May2025 20:21:10.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -2.088918987065881,7.594295338106264,6.858594439129803
+[20May2025 20:21:17.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 2.159081442304796,3.198852344515416,9.7769259096479
+[20May2025 20:21:20.438] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20May2025 20:21:20.438] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20May2025 20:21:32.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 5.020621251336706,6.256013489518637,-6.68075484312908
+[20May2025 20:22:03.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 2.5003737722154256,1.5318516492843628,-9.810485047601588
+[20May2025 20:22:05.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 2.250692658762091,1.8042595386505127,-9.832800728368532
+[20May2025 20:22:06.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 2.382205229553165,2.0101071894168854,-9.76409783648208
+[20May2025 20:22:07.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 2.382205229553165,2.0101071894168854,-9.76409783648208
+[20May2025 20:22:43.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -4.140087449614157,-0.7919967351481318,-10.072827710376032
+[20May2025 20:23:42.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 8.584777601805627,5.371788635849953,-3.3674226288746922
+[20May2025 20:23:46.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 9.538999977926323,0.4130984842777252,-3.7406662703381244
+[20May2025 20:24:00.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 10.179659935119503,-0.99543047696352,0.6894978145696768
+[20May2025 20:24:39.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -6.451508806770335,7.849922392944407,2.23264087188511
+[20May2025 20:25:18.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/19245, l='ServerLevel[world]', x=-1935.65, y=63.63, z=122.01] died: Honeyed Archer suffocated in a wall
+[20May2025 20:25:32.979] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20May2025 20:25:32.979] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20May2025 20:25:36.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 4.568321265777968,0.082809014380814,-9.307840509567427
+[20May2025 20:25:50.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 7.394615455654048,-1.7672112584114075,-6.87585280340727
+[20May2025 20:25:55.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 7.394615455654048,-1.7672112584114075,-6.87585280340727

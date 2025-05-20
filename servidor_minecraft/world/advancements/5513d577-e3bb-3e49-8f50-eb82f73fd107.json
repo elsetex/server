@@ -6873,6 +6873,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-20 20:13:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2025-05-20 19:53:42 +0000"
