@@ -1454,3 +1454,14 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ope
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20May2025 21:24:07.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[20May2025 21:24:07.861] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
+[20May2025 21:24:07.861] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
+[20May2025 21:24:07.862] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
+[20May2025 21:24:28.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20May2025 21:25:07.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20May2025 21:25:15.150] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20May2025 21:25:15.150] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20May2025 21:25:40.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20May2025 21:31:26.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Count Lillian the Mighty'/22624, l='ServerLevel[world]', x=-2324.24, y=-44.00, z=-698.70] died: Count Lillian the Mighty was slain by ilis84
+[20May2025 21:32:32.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17115, l='ServerLevel[world]', x=-1934.00, y=64.00, z=31.70] died, message: 'Unemployed was sucked dry'
