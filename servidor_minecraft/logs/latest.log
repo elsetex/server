@@ -2013,3 +2013,4 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [20May2025 23:14:41.200] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/22075, l='ServerLevel[world]', x=-1843.27, y=69.00, z=64.51] died, message: 'Librarian was slain by Zombie'
 [20May2025 23:29:42.440] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [20May2025 23:29:42.440] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20May2025 23:44:47.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/27881, l='ServerLevel[world]', x=-1825.50, y=68.00, z=-62.87] died: Vampire Baron Level 1 was slain by Vampire Baron Level 2
