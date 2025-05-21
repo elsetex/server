@@ -175,3 +175,33 @@
 [21May2025 04:12:10.518] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
 [21May2025 04:12:12.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 5.143150993134441,-0.5279194489121437,-8.853303161595932
 [21May2025 04:12:19.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 5.2295448056438545,-5.3642390966415405,-6.942339175817779
+[21May2025 04:15:36.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/111052, l='ServerLevel[world]', x=-1940.01, y=64.00, z=19.30] died, message: 'Unemployed was sucked dry'
+[21May2025 04:15:52.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Timed out
+[21May2025 04:15:52.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
+[21May2025 04:15:52.768] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
+[21May2025 04:22:56.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: setexgamer[/100.68.92.13:54006] logged in with entity id 114284 at (-1853.1264873680977, 50.0, 130.13215224597243)
+[21May2025 04:22:56.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer joined the game
+[21May2025 04:22:56.789] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[21May2025 04:22:56.793] [Server thread/INFO] [Jade/]: Syncing config to setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[21May2025 04:23:00.777] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was loaded
+[21May2025 04:24:33.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Disconnected
+[21May2025 04:24:33.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
+[21May2025 04:24:33.688] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
+[21May2025 04:28:05.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:28:05.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:28:18.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Creative Mode]
+[21May2025 04:28:21.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[21May2025 04:28:22.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: setexgamer[/100.68.92.13:54072] logged in with entity id 115222 at (-1851.761898731238, 50.0, 129.31608218112268)
+[21May2025 04:28:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer joined the game
+[21May2025 04:28:22.610] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[21May2025 04:28:22.614] [Server thread/INFO] [Jade/]: Syncing config to setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[21May2025 04:28:24.593] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21May2025 04:28:24.593] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21May2025 04:28:31.826] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was loaded
+[21May2025 04:28:33.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
+[21May2025 04:28:44.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[21May2025 04:29:27.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/115241, l='ServerLevel[world]', x=-1839.30, y=69.00, z=75.70] died, message: 'Unemployed was slain by Zombie'
+[21May2025 04:31:36.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -5.735488419824378,6.9716214863583446,-4.3119099537266266
+[21May2025 04:32:03.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/115324, l='ServerLevel[world]', x=-1856.70, y=63.00, z=27.19] died, message: 'Unemployed was slain by Zombie'
+[21May2025 04:32:30.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[21May2025 04:33:46.695] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/115331, l='ServerLevel[world]', x=-1933.64, y=63.00, z=31.64] died, message: 'Unemployed was sucked dry'

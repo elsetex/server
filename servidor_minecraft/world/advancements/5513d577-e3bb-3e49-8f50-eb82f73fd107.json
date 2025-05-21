@@ -7082,6 +7082,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-20 22:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-20 22:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-20 22:45:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-05-20 22:45:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-05-20 22:45:34 +0000"
@@ -7094,81 +7130,9 @@
     },
     "done": true
   },
-  "moblassos:recipes/tools/aqua_lasso": {
-    "criteria": {
-      "has_golden_lasso": "2025-05-20 22:46:08 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/wrench": {
     "criteria": {
       "has_wrench": "2025-05-20 22:45:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-05-20 22:45:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-21 03:37:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-21 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
-    "criteria": {
-      "requirement": "2025-05-21 03:19:06 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/smelting/calorite_ingot_from_smelting_venus_calorite_ore": {
-    "criteria": {
-      "has_calorite_ingot": "2025-05-20 22:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-05-20 22:58:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-21 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2025-05-20 22:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-21 03:24:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-20 22:45:22 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:suns_blessing": {
-    "criteria": {
-      "get_suns_blessing": "2025-05-21 03:15:55 +0000"
     },
     "done": true
   },
@@ -7178,57 +7142,9 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-05-21 01:38:44 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
-    "criteria": {
-      "has_item": "2025-05-20 22:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-05-20 22:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-05-21 03:36:31 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2025-05-20 22:45:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-05-20 22:58:48 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/blasting/calorite_ingot_from_blasting_venus_calorite_ore": {
-    "criteria": {
-      "has_calorite_ingot": "2025-05-20 22:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-05-21 03:58:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-05-21 04:09:32 +0000"
     },
     "done": true
   },
@@ -7244,12 +7160,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-21 03:24:00 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/iron_plating": {
     "criteria": {
       "has_iron_plating": "2025-05-20 22:45:34 +0000"
@@ -7259,36 +7169,6 @@
   "ad_astra:recipes/misc/iron_factory_block": {
     "criteria": {
       "has_iron_factory_block": "2025-05-20 22:45:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-05-21 02:10:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-20 22:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-05-21 03:37:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-21 02:11:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-05-21 03:57:36 +0000"
     },
     "done": true
   },
@@ -7304,51 +7184,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-21 04:09:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_the_recipe": "2025-05-21 03:43:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-20 22:32:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-05-20 22:58:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-21 01:37:41 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
-    "criteria": {
-      "has_heart": "2025-05-21 01:39:03 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2025-05-20 22:45:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-20 22:32:03 +0000"
     },
     "done": true
   },
@@ -7358,63 +7196,39 @@
     },
     "done": true
   },
-  "moblassos:recipes/tools/hostile_lasso": {
+  "ad_astra:recipes/misc/smelting/calorite_ingot_from_smelting_venus_calorite_ore": {
     "criteria": {
-      "has_golden_lasso": "2025-05-20 22:46:08 +0000"
+      "has_calorite_ingot": "2025-05-20 22:45:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
     "criteria": {
-      "has_logs": "2025-05-21 04:09:07 +0000"
+      "has_item": "2025-05-20 22:45:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
     "criteria": {
-      "has_azure_bluet": "2025-05-21 04:09:29 +0000"
+      "has_item": "2025-05-20 22:45:36 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+  "minecraft:recipes/food/honey_bottle": {
     "criteria": {
-      "has_item": "2025-05-20 22:45:32 +0000"
+      "has_honey_block": "2025-05-20 22:45:36 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+  "ad_astra:recipes/misc/blasting/calorite_ingot_from_blasting_venus_calorite_ore": {
     "criteria": {
-      "has_heart": "2025-05-21 01:39:03 +0000"
+      "has_calorite_ingot": "2025-05-20 22:45:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
     "criteria": {
-      "has_polished_andesite": "2025-05-20 22:58:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-05-21 03:37:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-05-20 22:45:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-20 22:55:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2025-05-20 22:57:25 +0000"
+      "has_item": "2025-05-20 22:45:36 +0000"
     },
     "done": true
   },
@@ -7424,15 +7238,135 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/spruce": {
+  "moblassos:recipes/tools/aqua_lasso": {
     "criteria": {
-      "has_wood": "2025-05-21 04:09:07 +0000"
+      "has_golden_lasso": "2025-05-20 22:46:08 +0000"
+    },
+    "done": true
+  },
+  "moblassos:recipes/tools/hostile_lasso": {
+    "criteria": {
+      "has_golden_lasso": "2025-05-20 22:46:08 +0000"
     },
     "done": true
   },
   "moblassos:recipes/tools/emerald_lasso": {
     "criteria": {
       "has_golden_lasso": "2025-05-20 22:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-20 22:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-20 22:55:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-05-20 22:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-20 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-20 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-20 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-20 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-20 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-21 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-05-21 01:38:44 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-05-21 01:39:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-05-21 01:39:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-05-21 01:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-21 02:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-21 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-05-21 03:15:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-05-21 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-21 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-21 03:24:00 +0000"
     },
     "done": true
   },
@@ -7448,15 +7382,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "has_polished_andesite": "2025-05-20 22:58:48 +0000"
+      "loot_bastion_other": "2025-05-21 03:36:31 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_heart": "2025-05-21 01:39:03 +0000"
+      "crying_obsidian": "2025-05-21 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-21 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-21 03:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 03:43:08 +0000"
     },
     "done": true
   },
@@ -7466,9 +7418,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-05-20 22:55:53 +0000"
+      "has_egg": "2025-05-21 03:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-21 03:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 04:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-21 04:09:07 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-05-21 04:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-21 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-21 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-21 04:09:32 +0000"
     },
     "done": true
   },
