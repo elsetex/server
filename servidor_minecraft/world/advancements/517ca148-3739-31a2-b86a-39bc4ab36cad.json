@@ -3443,6 +3443,7 @@
       "minecraft:skeleton": "2025-05-19 20:47:49 +0000",
       "minecraft:spider": "2025-05-19 20:44:37 +0000",
       "minecraft:creeper": "2025-05-20 21:33:18 +0000",
+      "minecraft:phantom": "2025-05-21 01:27:16 +0000",
       "minecraft:zombified_piglin": "2025-05-19 23:13:54 +0000",
       "minecraft:husk": "2025-05-19 20:54:48 +0000",
       "minecraft:cave_spider": "2025-05-20 20:05:07 +0000",
@@ -6646,6 +6647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-21 01:30:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-05-20 23:03:10 +0000"
@@ -6658,6 +6665,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_amulet": "2025-05-21 01:24:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-05-20 23:03:10 +0000"
@@ -6667,6 +6680,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-05-20 23:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-21 01:30:01 +0000"
     },
     "done": true
   },
@@ -6685,6 +6704,18 @@
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-05-20 23:03:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_amulet": "2025-05-21 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-21 01:30:01 +0000"
     },
     "done": true
   },
