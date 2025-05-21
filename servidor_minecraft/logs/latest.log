@@ -61,3 +61,69 @@
 [21May2025 03:11:50.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Far From Perfect]
 [21May2025 03:12:28.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPygro['Driller'/72192, l='ServerLevel[world]', x=-2168.85, y=-7.90, z=32.15] died: Driller suffocated in a wall
 [21May2025 03:13:00.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Mister Prim the Happiness Advocate'/73267, l='ServerLevel[world]', x=-489.62, y=22.00, z=-194.58] died: Mister Prim the Happiness Advocate tried to swim in lava
+[21May2025 03:14:04.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 03:15:42.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -10.112386078313875,-1.6302159428596497,0.418098025937752
+[21May2025 03:15:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Heliomancer]
+[21May2025 03:16:15.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -1.815215858885722,-11.19886200217774,-0.8721802826976273
+[21May2025 03:16:45.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was burnt to a crisp whilst fighting Traverser
+[21May2025 03:16:45.277] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:16:59.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7545ms or 150 ticks behind
+[21May2025 03:16:59.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 2.827166792018147,2.5752198149080243,-9.665292180381584
+[21May2025 03:17:18.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [The Soul Forge]
+[21May2025 03:17:37.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer tried to swim in lava to escape Traverser
+[21May2025 03:17:37.674] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:17:50.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 03:18:25.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has completed the challenge [The broken Nether's warmachine]
+[21May2025 03:18:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was burnt to a crisp whilst fighting Blaze
+[21May2025 03:18:47.218] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:19:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Defunct Machinery]
+[21May2025 03:19:16.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Hidden in the Depths]
+[21May2025 03:20:33.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -6.264387932352292,8.696954935789108,-3.054486986180791
+[21May2025 03:20:57.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was burnt to a crisp whilst fighting Blaze
+[21May2025 03:20:57.573] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:23:19.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has completed the challenge [Hot Tourist Destinations]
+[21May2025 03:25:20.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Those Were the Days]
+[21May2025 03:26:41.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer tried to swim in lava
+[21May2025 03:26:41.725] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:28:01.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [War Pigs]
+[21May2025 03:32:52.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Disconnected
+[21May2025 03:32:52.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[21May2025 03:32:52.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[21May2025 03:34:13.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[21May2025 03:34:17.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has completed the challenge [Hot Tourist Destinations]
+[21May2025 03:34:33.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Gave 64 [Leather] to setexgamer]
+[21May2025 03:34:35.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[21May2025 03:34:54.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Zombified Piglin
+[21May2025 03:34:54.913] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:35:15.966] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 7 ms
+[21May2025 03:35:20.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to -1263.500000, 42.000000, -95.500000]
+[21May2025 03:35:20.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Those Were the Days]
+[21May2025 03:35:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[21May2025 03:35:39.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilis84[/100.81.43.74:58897] logged in with entity id 87495 at (-2072.5, 34.60351590146311, -1287.5)
+[21May2025 03:35:39.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 joined the game
+[21May2025 03:35:39.758] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[21May2025 03:35:39.764] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[21May2025 03:35:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[21May2025 03:35:43.484] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
+[21May2025 03:35:43.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[21May2025 03:35:52.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[21May2025 03:36:31.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [War Pigs]
+[21May2025 03:37:10.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Who is Cutting Onions?]
+[21May2025 03:37:36.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1263, y=69, z=-88}
+[21May2025 03:37:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[21May2025 03:38:03.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[21May2025 03:38:52.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 03:38:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was shot by Piglin
+[21May2025 03:38:57.380] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:38:59.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -4.946988073942748,-1.5571219623088837,8.633773886652534
+[21May2025 03:39:08.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Piglin Brute
+[21May2025 03:39:08.130] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:39:09.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -2.3314663529210975,-0.6625770479440689,-9.963426346344022
+[21May2025 03:39:19.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was shot by Piglin
+[21May2025 03:39:19.227] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:39:21.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 4.869999279666217,-2.740333467721939,-8.494575916612803
+[21May2025 03:39:30.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 4.093842965960903,4.541495967656374,-9.184870061744505
+[21May2025 03:39:30.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4069ms or 81 ticks behind
+[21May2025 03:40:33.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 03:40:42.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -5.385093409142883,-1.330605298280716,8.621901938058727
+[21May2025 03:41:52.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/91921, l='ServerLevel[world]', x=-1489.51, y=63.50, z=-1709.56] died: Withering Archer was slain by ilis84
