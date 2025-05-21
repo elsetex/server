@@ -7118,6 +7118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-21 04:09:10 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2025-05-21 03:19:06 +0000"
@@ -7133,6 +7139,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-20 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 04:09:10 +0000"
     },
     "done": true
   },
@@ -7214,6 +7226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-21 04:09:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-05-20 22:45:34 +0000"
@@ -7286,6 +7304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 04:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2025-05-21 03:43:08 +0000"
@@ -7340,6 +7364,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-21 04:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-21 04:09:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-20 22:45:32 +0000"
@@ -7385,6 +7421,12 @@
   "ad_astra:recipes/misc/tier_1_rover": {
     "criteria": {
       "has_tier_1_rover": "2025-05-20 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-05-21 04:09:07 +0000"
     },
     "done": true
   },

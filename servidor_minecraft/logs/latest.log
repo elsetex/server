@@ -141,3 +141,37 @@
 [21May2025 04:02:14.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Disconnected
 [21May2025 04:02:14.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
 [21May2025 04:02:14.468] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[21May2025 04:05:40.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilis84[/100.81.43.74:59438] logged in with entity id 106516 at (-3055.288530837485, 37.0, -711.5)
+[21May2025 04:05:40.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 joined the game
+[21May2025 04:05:40.901] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[21May2025 04:05:40.910] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[21May2025 04:05:42.085] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
+[21May2025 04:05:42.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[21May2025 04:05:51.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Piglin
+[21May2025 04:05:51.534] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[21May2025 04:06:32.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4445ms or 88 ticks behind
+[21May2025 04:06:54.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6683ms or 133 ticks behind
+[21May2025 04:07:14.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5240ms or 104 ticks behind
+[21May2025 04:07:24.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:24.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:24.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:25.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:25.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:25.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:25.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:26.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:26.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:26.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:26.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 04:07:34.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4595ms or 91 ticks behind
+[21May2025 04:07:53.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3949ms or 78 ticks behind
+[21May2025 04:08:11.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
+[21May2025 04:08:22.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Zombie
+[21May2025 04:08:22.600] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 04:08:31.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4568ms or 91 ticks behind
+[21May2025 04:11:36.041] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21May2025 04:11:36.056] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21May2025 04:12:10.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was shot by Skeleton
+[21May2025 04:12:10.518] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 04:12:12.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 5.143150993134441,-0.5279194489121437,-8.853303161595932
+[21May2025 04:12:19.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 5.2295448056438545,-5.3642390966415405,-6.942339175817779
