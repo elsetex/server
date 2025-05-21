@@ -53,3 +53,11 @@
 [21May2025 02:35:30.660] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
 [21May2025 02:54:22.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Zombie
 [21May2025 02:54:22.168] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[21May2025 03:09:21.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was fireballed by Blaze
+[21May2025 03:09:21.229] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:11:35.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer tried to swim in lava to escape Traverser
+[21May2025 03:11:35.366] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 03:11:50.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Viscount Biz'/72721, l='ServerLevel[world]', x=-2024.30, y=76.00, z=164.51] died: Viscount Biz was slain by ilis84
+[21May2025 03:11:50.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Far From Perfect]
+[21May2025 03:12:28.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPygro['Driller'/72192, l='ServerLevel[world]', x=-2168.85, y=-7.90, z=32.15] died: Driller suffocated in a wall
+[21May2025 03:13:00.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Mister Prim the Happiness Advocate'/73267, l='ServerLevel[world]', x=-489.62, y=22.00, z=-194.58] died: Mister Prim the Happiness Advocate tried to swim in lava
