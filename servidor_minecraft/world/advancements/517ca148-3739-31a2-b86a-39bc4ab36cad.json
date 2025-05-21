@@ -3440,11 +3440,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-20 20:46:22 +0000",
+      "minecraft:blaze": "2025-05-21 02:07:14 +0000",
       "minecraft:skeleton": "2025-05-19 20:47:49 +0000",
+      "minecraft:ghast": "2025-05-21 02:07:05 +0000",
       "minecraft:spider": "2025-05-19 20:44:37 +0000",
       "minecraft:creeper": "2025-05-20 21:33:18 +0000",
       "minecraft:phantom": "2025-05-21 01:27:16 +0000",
       "minecraft:zombified_piglin": "2025-05-19 23:13:54 +0000",
+      "minecraft:wither_skeleton": "2025-05-21 02:09:14 +0000",
       "minecraft:husk": "2025-05-19 20:54:48 +0000",
       "minecraft:cave_spider": "2025-05-20 20:05:07 +0000",
       "minecraft:silverfish": "2025-05-19 20:53:26 +0000",
@@ -5053,7 +5056,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-05-19 23:13:18 +0000"
+      "minecraft:nether_wastes": "2025-05-19 23:13:18 +0000",
+      "minecraft:soul_sand_valley": "2025-05-21 02:12:10 +0000",
+      "minecraft:basalt_deltas": "2025-05-21 02:06:27 +0000",
+      "minecraft:warped_forest": "2025-05-21 02:05:22 +0000"
     },
     "done": false
   },
@@ -6593,15 +6599,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/dark_stone_brick_wall": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-05-20 23:03:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2025-05-20 23:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-21 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-21 02:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-21 02:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
     },
     "done": true
   },
@@ -6617,15 +6689,39 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/polished_dark_stone_slab": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-05-20 22:58:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-05-20 23:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-21 01:47:30 +0000"
     },
     "done": true
   },
@@ -6638,6 +6734,12 @@
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-05-20 23:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
     },
     "done": true
   },
@@ -6659,15 +6761,81 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-21 01:45:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-05-20 23:03:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
     "criteria": {
       "has_amulet": "2025-05-21 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/chiseled_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_brick_slab": "2025-05-21 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-21 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-21 01:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-21 02:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
     },
     "done": true
   },
@@ -6683,9 +6851,27 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_rod": "2025-05-21 02:07:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-21 01:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-05-21 01:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
     },
     "done": true
   },
@@ -6695,9 +6881,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-05-20 23:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_slab": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
     },
     "done": true
   },
@@ -6719,15 +6929,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-21 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-21 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-05-21 01:45:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-05-21 01:30:01 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-21 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-21 01:47:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-05-20 23:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-21 02:07:30 +0000"
     },
     "done": true
   },
@@ -6743,9 +7013,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cracked_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-05-20 23:03:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/polished_dark_stone_wall": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-05-21 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-21 02:07:30 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-05-21 01:47:50 +0000"
     },
     "done": true
   },

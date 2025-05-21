@@ -12935,3 +12935,78 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [21May2025 01:40:02.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
 [21May2025 01:40:23.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21May2025 01:40:23.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 01:42:41.761] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21May2025 01:45:08.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Zombie
+[21May2025 01:45:08.471] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-1928, y:64, z:105, dim:minecraft:overworld]
+[21May2025 01:45:08.488] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 01:45:09.930] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 1
+[21May2025 01:45:23.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 01:45:23.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 01:45:39.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[21May2025 01:45:42.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[21May2025 01:50:05.869] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 2
+[21May2025 01:50:23.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 01:50:23.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 01:50:44.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[21May2025 01:52:23.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/53102, l='ServerLevel[world]', x=-1818.27, y=68.00, z=-66.76] died: Vampire Baron Level 1 was slain by Vampire Baron Level 2
+[21May2025 01:53:47.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Tools of the Trade]
+[21May2025 01:54:03.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[21May2025 01:55:23.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 01:55:23.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 02:00:23.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 02:00:23.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 02:01:50.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 02:01:50.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 02:02:23.104] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21May2025 02:05:04.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[21May2025 02:05:20.473] [Worker-Main-149/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21May2025 02:05:20.474] [Worker-Main-149/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21May2025 02:05:20.715] [Worker-Main-170/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[21May2025 02:05:20.716] [Worker-Main-170/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[21May2025 02:05:20.716] [Worker-Main-170/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[21May2025 02:05:22.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[21May2025 02:05:24.871] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21May2025 02:05:25.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 02:05:26.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 02:05:27.678] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21May2025 02:05:28.438] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21May2025 02:05:28.723] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21May2025 02:05:58.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 6.8322348924237986,0.23486921563744545,-7.6435890680230045
+[21May2025 02:06:06.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/50110, l='ServerLevel[world]', x=-1856.70, y=63.00, z=27.90] died, message: 'Librarian was slain by Zombie'
+[21May2025 02:06:41.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[21May2025 02:06:51.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21May2025 02:07:14.475] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:07:15.772] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:07:27.722] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:07:30.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Into Fire]
+[21May2025 02:07:34.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [A Terrible Fortress]
+[21May2025 02:07:38.280] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[21May2025 02:08:37.081] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[21May2025 02:08:53.478] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[21May2025 02:10:10.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[21May2025 02:10:25.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 02:10:25.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 02:11:56.866] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:12:20.902] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:12:29.307] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:12:36.504] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:12:36.536] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:12:40.653] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:12:46.305] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:13:15.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/61599, l='ServerLevel[world]', x=-529.03, y=59.16, z=-251.31] died: Withering Archer was slain by setexgamer
+[21May2025 02:13:50.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer tried to swim in lava
+[21May2025 02:13:50.023] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-535, y:32, z:-164, dim:minecraft:the_nether]
+[21May2025 02:13:50.027] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 02:13:51.793] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: setexgamer has new faction level werewolves:werewolf 2
+[21May2025 02:13:52.868] [Worker-Main-201/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.056s
+[21May2025 02:14:03.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -9.985114440370467,0.9174520313960954,3.5562203900529994
+[21May2025 02:15:11.658] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:15:16.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[21May2025 02:15:17.555] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:15:19.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[21May2025 02:15:25.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 02:15:25.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 02:15:35.868] [Worker-Main-198/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.052s
+[21May2025 02:19:05.765] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:20:25.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 02:20:25.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
