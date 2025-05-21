@@ -7208,6 +7208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-21 03:58:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-05-20 22:45:34 +0000"
@@ -7262,6 +7268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-21 03:57:36 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_plateblock": {
     "criteria": {
       "has_iron_plateblock": "2025-05-20 22:45:34 +0000"
@@ -7271,6 +7283,12 @@
   "ad_astra:recipes/misc/etrionic_blast_furnace": {
     "criteria": {
       "has_etrionic_blast_furnace": "2025-05-20 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 03:43:08 +0000"
     },
     "done": true
   },
@@ -7397,6 +7415,12 @@
   "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
     "criteria": {
       "has_heart": "2025-05-21 01:39:03 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/decorations/suit_stand": {
+    "criteria": {
+      "has_armor_stand": "2025-05-21 03:43:29 +0000"
     },
     "done": true
   },
