@@ -13010,3 +13010,13 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [21May2025 02:19:05.765] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [21May2025 02:20:25.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21May2025 02:20:25.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 02:23:05.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/63547, l='ServerLevel[world]', x=-1934.30, y=64.00, z=31.90] died, message: 'Farmer was sucked dry'
+[21May2025 02:24:42.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[21May2025 02:24:42.224] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:-1845, y:50, z:136, dim:minecraft:overworld]
+[21May2025 02:24:42.227] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[21May2025 02:25:25.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 02:25:25.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 02:30:25.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 02:30:25.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 02:30:38.052] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:32:02.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
