@@ -13020,3 +13020,11 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [21May2025 02:30:25.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21May2025 02:30:38.052] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [21May2025 02:32:02.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[21May2025 02:35:25.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 02:35:25.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 02:35:30.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was fireballed by Blaze
+[21May2025 02:35:30.653] [Server thread/DEBUG] [tombstone/]: A new grave of the player setexgamer was created at position [x:-534, y:35, z:-150, dim:minecraft:the_nether]
+[21May2025 02:35:30.660] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[21May2025 02:40:09.038] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 6
+[21May2025 02:40:25.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 02:40:25.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

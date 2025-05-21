@@ -49,3 +49,5 @@
 [21May2025 02:23:05.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/63547, l='ServerLevel[world]', x=-1934.30, y=64.00, z=31.90] died, message: 'Farmer was sucked dry'
 [21May2025 02:24:42.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
 [21May2025 02:24:42.227] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[21May2025 02:35:30.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was fireballed by Blaze
+[21May2025 02:35:30.660] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
