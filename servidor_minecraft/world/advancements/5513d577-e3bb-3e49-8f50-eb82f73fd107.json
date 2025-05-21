@@ -7135,6 +7135,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-05-21 01:38:44 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/forest_troll_leather_leggings": {
     "criteria": {
       "has_item": "2025-05-20 22:45:36 +0000"
@@ -7219,6 +7225,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-21 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-05-21 01:39:03 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2025-05-20 22:45:34 +0000"
@@ -7246,6 +7264,12 @@
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-20 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-05-21 01:39:03 +0000"
     },
     "done": true
   },
@@ -7288,6 +7312,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-20 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-05-21 01:39:03 +0000"
     },
     "done": true
   },

@@ -12925,3 +12925,13 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [21May2025 01:30:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
 [21May2025 01:30:23.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21May2025 01:30:23.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 01:35:21.499] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39614, l='ServerLevel[world]', x=-1934.30, y=64.00, z=31.90] died, message: 'Unemployed was sucked dry'
+[21May2025 01:35:23.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 01:35:23.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 01:37:41.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [What a Deal!]
+[21May2025 01:38:12.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [What a Deal!]
+[21May2025 01:38:34.011] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by werewolves:werewolf at BlockPos{x=-1849, y=64, z=46} with badomen level 0
+[21May2025 01:39:21.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter Expert'/22076, l='ServerLevel[world]', x=-1848.49, y=63.00, z=45.76] died, message: 'Hunter Expert was slain by ilis84'
+[21May2025 01:40:02.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[21May2025 01:40:23.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 01:40:23.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
