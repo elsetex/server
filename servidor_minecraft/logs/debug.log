@@ -11528,3 +11528,10 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [22May2025 02:28:58.538] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [22May2025 02:29:35.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22May2025 02:29:35.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 02:34:35.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 02:34:35.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 02:39:35.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 02:39:35.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 02:42:32.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Disconnected
+[22May2025 02:42:32.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[22May2025 02:42:32.130] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
