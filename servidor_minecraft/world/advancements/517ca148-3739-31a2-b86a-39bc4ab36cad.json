@@ -7481,12 +7481,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/general/blood_sieve": {
-    "criteria": {
-      "has_cauldron": "2025-05-21 04:29:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-21 04:22:50 +0000"
@@ -7496,6 +7490,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-21 04:22:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2025-05-21 04:29:15 +0000"
     },
     "done": true
   },
