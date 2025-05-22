@@ -11505,3 +11505,26 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [22May2025 02:11:48.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
 [22May2025 02:12:36.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
 [22May2025 02:12:36.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[22May2025 02:13:57.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10591, l='ServerLevel[world]', x=-1856.70, y=63.56, z=29.23] died, message: 'Farmer was slain by Zombie'
+[22May2025 02:13:59.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10592, l='ServerLevel[world]', x=-1855.51, y=63.34, z=28.57] died, message: 'Unemployed was slain by Zombie'
+[22May2025 02:14:06.212] [Server thread/WARN] [tombstone/]: The death event of the player ilis84 was canceled by another mod
+[22May2025 02:14:06.265] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[22May2025 02:14:06.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10594, l='ServerLevel[world]', x=-1845.65, y=64.00, z=39.13] died, message: 'Unemployed was slain by Zombie'
+[22May2025 02:14:29.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 02:14:29.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 02:14:51.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13676, l='ServerLevel[world]', x=-1849.71, y=64.18, z=32.22] died, message: 'Unemployed was slain by Zombie'
+[22May2025 02:17:13.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[22May2025 02:18:59.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13952, l='ServerLevel[world]', x=-1859.40, y=62.94, z=27.08] died, message: 'Unemployed was slain by Zombie'
+[22May2025 02:19:29.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 02:19:29.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 02:19:35.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6708ms or 134 ticks behind
+[22May2025 02:19:42.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/10697, l='ServerLevel[world]', x=-1850.14, y=63.50, z=32.49] died, message: 'Librarian was slain by Zombie'
+[22May2025 02:24:35.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 02:24:35.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 02:25:17.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11571, l='ServerLevel[world]', x=-1939.94, y=64.00, z=17.70] died, message: 'Unemployed was sucked dry'
+[22May2025 02:25:52.896] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15054, l='ServerLevel[world]', x=-1934.01, y=64.00, z=31.70] died, message: 'Unemployed was sucked dry'
+[22May2025 02:25:55.417] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:hunter at BlockPos{x=-1849, y=64, z=46} with badomen level 0
+[22May2025 02:28:58.537] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[22May2025 02:28:58.538] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[22May2025 02:29:35.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 02:29:35.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

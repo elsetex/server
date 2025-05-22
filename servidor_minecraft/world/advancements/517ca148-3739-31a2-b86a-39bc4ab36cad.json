@@ -7505,6 +7505,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-05-22 02:10:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-22 02:03:46 +0000"
@@ -7526,6 +7532,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-05-22 02:04:38 +0000"
+    },
+    "done": true
+  },
+  "moblassos:recipes/tools/contract": {
+    "criteria": {
+      "has_paper": "2025-05-22 02:10:35 +0000"
     },
     "done": true
   },
@@ -7571,6 +7583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-22 02:10:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-22 02:03:46 +0000"
@@ -7589,6 +7607,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-22 02:10:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-22 02:10:35 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-22 02:03:46 +0000"
@@ -7601,6 +7631,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-22 02:10:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-05-22 02:04:38 +0000"
@@ -7610,6 +7646,12 @@
   "spartanshields:recipes/misc/netherite_tower_shield_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-22 02:03:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-22 02:10:35 +0000"
     },
     "done": true
   },
@@ -7640,6 +7682,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-05-22 02:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-22 02:10:35 +0000"
     },
     "done": true
   },
