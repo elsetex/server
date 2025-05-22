@@ -1396,3 +1396,4 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [22May2025 02:42:32.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Disconnected
 [22May2025 02:42:32.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
 [22May2025 02:42:32.130] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[22May2025 02:45:01.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/17497, l='ServerLevel[world]', x=-1959.59, y=122.25, z=211.35] died: Honeyed Archer suffocated in a wall
