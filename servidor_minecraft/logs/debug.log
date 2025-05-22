@@ -13458,3 +13458,7 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [22May2025 01:03:14.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Disconnected
 [22May2025 01:03:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
 [22May2025 01:03:14.427] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
+[22May2025 01:04:24.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 01:04:24.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 01:09:24.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 01:09:24.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
