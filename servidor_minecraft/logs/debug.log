@@ -11418,3 +11418,33 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [22May2025 01:39:22.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22May2025 01:40:16.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1157, l='ServerLevel[world]', x=-1841.22, y=63.94, z=35.50] died, message: 'Unemployed was slain by ilis84'
 [22May2025 01:42:07.554] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: ilis84 has new faction level werewolves:werewolf 7
+[22May2025 01:43:33.897] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1158, l='ServerLevel[world]', x=-1933.99, y=64.00, z=31.70] died, message: 'Farmer was sucked dry'
+[22May2025 01:44:22.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 01:44:22.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 01:44:46.123] [Server thread/WARN] [tombstone/]: The death event of the player ilis84 was canceled by another mod
+[22May2025 01:44:46.171] [Server thread/WARN] [tombstone/]: The death event of the player ilis84 was canceled by another mod
+[22May2025 01:44:46.173] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[22May2025 01:44:46.176] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[22May2025 01:44:46.217] [Server thread/WARN] [tombstone/]: The death event of the player ilis84 was canceled by another mod
+[22May2025 01:44:46.221] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[22May2025 01:44:46.272] [Server thread/WARN] [tombstone/]: The death event of the player ilis84 was canceled by another mod
+[22May2025 01:44:46.280] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[22May2025 01:44:46.325] [Server thread/WARN] [tombstone/]: The death event of the player ilis84 was canceled by another mod
+[22May2025 01:44:46.331] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[22May2025 01:46:59.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Best Friends Forever]
+[22May2025 01:49:22.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 01:49:22.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 01:51:43.027] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[22May2025 01:51:45.564] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[22May2025 01:51:46.379] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[22May2025 01:51:47.188] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[22May2025 01:51:59.128] [Worker-Main-17/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 01:51:59.129] [Worker-Main-17/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 01:51:59.503] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 01:51:59.503] [Worker-Main-10/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 01:51:59.754] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22May2025 01:51:59.755] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22May2025 01:51:59.755] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22May2025 01:52:10.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[22May2025 01:52:15.221] [Worker-Main-17/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[22May2025 01:52:15.223] [Worker-Main-17/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
