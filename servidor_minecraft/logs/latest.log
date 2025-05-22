@@ -1351,3 +1351,21 @@ com.google.gson.JsonParseException: Unknown item 'heroes:cryo_pic_0'
 [22May2025 01:51:59.755] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [22May2025 01:51:59.755] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [22May2025 01:52:10.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[22May2025 01:54:53.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5351, l='ServerLevel[world]', x=-191.50, y=61.00, z=1122.50] died: Ivy suffocated in a wall whilst fighting ilis84
+[22May2025 01:54:57.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5367, l='ServerLevel[world]', x=-195.50, y=60.00, z=1123.50] died: Ivy suffocated in a wall
+[22May2025 01:55:00.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1156, l='ServerLevel[world]', x=-1855.74, y=63.56, z=29.87] died, message: 'Unemployed was slain by Zombie'
+[22May2025 01:56:10.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5645, l='ServerLevel[world]', x=-193.50, y=59.00, z=1078.50] died: Ivy was slain by ilis84
+[22May2025 01:56:22.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5616, l='ServerLevel[world]', x=-187.50, y=60.00, z=1115.56] died: Ivy was slain by ilis84
+[22May2025 01:57:59.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[22May2025 01:59:18.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[22May2025 01:59:23.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 3.2643169818227307,7.129400745034218,-7.438106954122304
+[22May2025 02:00:08.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Who is Cutting Onions?]
+[22May2025 02:00:55.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[22May2025 02:01:31.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[22May2025 02:01:36.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/10000, l='ServerLevel[world]', x=-2484.50, y=63.40, z=503.50] died: Ivy was slain by setexgamer
+[22May2025 02:01:54.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/10029, l='ServerLevel[world]', x=-2477.97, y=68.18, z=500.26] died: Ivy was slain by setexgamer
+[22May2025 02:02:12.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[22May2025 02:02:12.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved too quickly! 8.382954888474615,-0.02442408821369213,-5.584310649239171
+[22May2025 02:02:40.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/10833, l='ServerLevel[world]', x=-1988.50, y=153.00, z=181.50] died: Ivy suffocated in a wall
+[22May2025 02:02:58.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[22May2025 02:03:00.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
