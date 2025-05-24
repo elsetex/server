@@ -1381,3 +1381,73 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [24May2025 17:07:06.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Gave 1 [Bone Necklace] to setexgamer]
 [24May2025 17:07:11.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
 [24May2025 17:07:27.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:09:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:10:02.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:11:21.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:11:51.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:11:56.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:12:06.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:12:11.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:12:17.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:16:15.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:16:20.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:16:27.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [A Terrible Mistake]
+[24May2025 17:16:46.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:17:29.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:17:50.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Removed every effect from setexgamer]
+[24May2025 17:18:14.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Applied effect Regeneration to setexgamer]
+[24May2025 17:18:30.601] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.effect.MobEffectInstance.m_19544_()" because the return value of "net.minecraftforge.event.entity.living.MobEffectEvent$Remove.getEffectInstance()" is null
+	Index: 1
+	Listeners:
+		0: NORMAL
+		1: ASM: class fr.speedscorp.devilfruits.common.events.EntityEvents onMobEffectRemoveEvent(Lnet/minecraftforge/event/entity/living/MobEffectEvent$Remove;)V
+		2: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@2467a05 onRemovePotionEffect(Lnet/minecraftforge/event/entity/living/MobEffectEvent$Remove;)V
+		3: ASM: stepsword.mahoutsukai.handlers.ServerHandler@44749bc5 potionFinish(Lnet/minecraftforge/event/entity/living/MobEffectEvent$Remove;)V
+		4: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@5f8a460 livingRemoveEffect(Lnet/minecraftforge/event/entity/living/MobEffectEvent$Remove;)V
+		5: ASM: class com.hollingsworth.arsnouveau.common.event.EventHandler onPotionRemove(Lnet/minecraftforge/event/entity/living/MobEffectEvent$Remove;)V
+		6: LOWEST
+		7: ASM: class ovh.corail.tombstone.event.EventHandler onEffectRemoved(Lnet/minecraftforge/event/entity/living/MobEffectEvent$Remove;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.effect.MobEffectInstance.m_19544_()" because the return value of "net.minecraftforge.event.entity.living.MobEffectEvent$Remove.getEffectInstance()" is null
+	at TRANSFORMER/devilfruits@1.4/fr.speedscorp.devilfruits.common.events.EntityEvents.onMobEffectRemoveEvent(EntityEvents.java:192)
+	at TRANSFORMER/devilfruits@1.4/fr.speedscorp.devilfruits.common.events.__EntityEvents_onMobEffectRemoveEvent_Remove.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_21195_(LivingEntity.java:979)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.commands.EffectCommands.m_246113_(EffectCommands.java:164)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.commands.EffectCommands.m_244829_(EffectCommands.java:50)
+	at MC-BOOTSTRAP/brigadier@1.1.8/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.commands.CommandFunction$CommandEntry.m_164875_(CommandFunction.java:96)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.commands.CommandFunction$CommandEntry.m_142134_(CommandFunction.java:90)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.ServerFunctionManager$QueuedCommand.m_179985_(ServerFunctionManager.java:135)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.ServerFunctionManager$ExecutionContext.m_179977_(ServerFunctionManager.java:210)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.ServerFunctionManager.m_179960_(ServerFunctionManager.java:85)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.ServerFunctionManager.m_136112_(ServerFunctionManager.java:69)
+	at TRANSFORMER/palladium@4.1.5/net.threetag.palladium.power.ability.CommandAbility.lastTick(CommandAbility.java:62)
+	at TRANSFORMER/palladium@4.1.5/net.threetag.palladium.power.ability.AbilityInstance.tick(AbilityInstance.java:168)
+	at TRANSFORMER/palladium@4.1.5/net.threetag.palladium.power.DefaultPowerHolder.lambda$tick$0(DefaultPowerHolder.java:96)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1421)
+	at TRANSFORMER/palladium@4.1.5/net.threetag.palladium.power.DefaultPowerHolder.tick(DefaultPowerHolder.java:96)
+	at TRANSFORMER/palladium@4.1.5/net.threetag.palladium.power.PowerHandler.tick(PowerHandler.java:88)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at TRANSFORMER/palladium@4.1.5/net.threetag.palladium.power.PowerManager.lambda$init$0(PowerManager.java:41)
+	at TRANSFORMER/palladiumcore@1.0.1/net.threetag.palladiumcore.event.LivingEntityEvents.lambda$static$9(LivingEntityEvents.java:33)
+	at TRANSFORMER/palladiumcore@1.0.1/net.threetag.palladiumcore.event.forge.PalladiumCoreEventHandler.livingTick(PalladiumCoreEventHandler.java:93)
+	at TRANSFORMER/palladiumcore@1.0.1/net.threetag.palladiumcore.event.forge.__PalladiumCoreEventHandler_livingTick_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:241)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
