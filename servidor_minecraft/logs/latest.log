@@ -1451,3 +1451,27 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.effect.MobEff
 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
 	at java.base/java.lang.Thread.run(Thread.java:840)
 
+[24May2025 17:19:11.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Disconnected
+[24May2025 17:19:11.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
+[24May2025 17:19:11.224] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
+[24May2025 17:19:11.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Kicked setexgamer: Kicked by an operator]
+[24May2025 17:19:11.259] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 17:19:40.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: setexgamer[/100.68.92.13:59609] logged in with entity id 4376 at (-1846.296488961494, 50.0, 124.51452274457753)
+[24May2025 17:19:40.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer joined the game
+[24May2025 17:19:40.600] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[24May2025 17:19:40.606] [Server thread/INFO] [Jade/]: Syncing config to setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[24May2025 17:19:41.354] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was loaded
+[24May2025 17:20:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was killed
+[24May2025 17:20:06.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Killed setexgamer]
+[24May2025 17:20:06.637] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[24May2025 17:20:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:20:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:21:12.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:21:34.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:21:38.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [A Hero Reborn]
+[24May2025 17:27:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer hit the ground too hard
+[24May2025 17:27:11.912] [Server thread/INFO] [tombstone/]: The player setexgamer has successfully been saved
+[24May2025 17:28:04.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:28:16.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[24May2025 17:28:18.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[24May2025 17:28:22.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]

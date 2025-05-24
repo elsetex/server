@@ -7551,5 +7551,35 @@
     },
     "done": true
   },
+  "heroes:craft_formula": {
+    "criteria": {
+      "Craft_Item": "2025-05-24 17:16:04 +0000"
+    },
+    "done": true
+  },
+  "heroes:gain_formula_power": {
+    "criteria": {
+      "Impossible": "2025-05-24 17:16:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-05-24 17:16:27 +0000"
+    },
+    "done": true
+  },
+  "heroes:evo_human": {
+    "criteria": {
+      "Impossible": "2025-05-24 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "heroes:formula_repair": {
+    "criteria": {
+      "Impossible": "2025-05-24 17:21:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
